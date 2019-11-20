@@ -1,0 +1,1 @@
+root FunctionDef name _truncate_html_fu_nc_na_me ^ ^ args arg arg self_fu_nc_na_me ^ ^ ^ arg arg length_fu_nc_na_me ^ ^ ^ arg arg truncate_fu_nc_na_me ^ ^ ^ arg arg text_fu_nc_na_me ^ ^ ^ arg arg truncate_len_fu_nc_na_me ^ ^ ^ arg arg words_fu_nc_na_me ^ ^ ^ ^ body Pass ^ ^ ^ ^

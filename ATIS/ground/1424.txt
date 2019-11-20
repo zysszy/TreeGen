@@ -1,0 +1,1 @@
+root Assign targets Name id lang_code_fu_nc_na_me ^ ^ ^ ^ value Call func Attribute value Attribute value Name id request_fu_nc_na_me ^ ^ ^ ^ attr session_fu_nc_na_me ^ ^ ^ ^ attr get_fu_nc_na_me ^ ^ ^ ^ args Name id LANGUAGE_SESSION_KEY_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

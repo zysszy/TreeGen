@@ -1,0 +1,1 @@
+root Return value Call func Name id force_text_fu_nc_na_me ^ ^ ^ ^ args Call func Name id gettext_fu_nc_na_me ^ ^ ^ ^ args Name id message_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

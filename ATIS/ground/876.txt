@@ -1,0 +1,1 @@
+root Return value Call func Name id timesince_fu_nc_na_me ^ ^ ^ ^ args Name id d_fu_nc_na_me ^ ^ ^ Name id now_fu_nc_na_me ^ ^ ^ ^ keywords keyword arg reversed_fu_nc_na_me ^ ^ value NameConstant value True ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

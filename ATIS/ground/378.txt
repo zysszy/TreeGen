@@ -1,0 +1,1 @@
+root Assign targets Name id frame_fu_nc_na_me ^ ^ ^ ^ value Call func Attribute value Name id sys_fu_nc_na_me ^ ^ ^ ^ attr _getframe_fu_nc_na_me ^ ^ ^ ^ args Num n 1_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

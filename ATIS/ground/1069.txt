@@ -1,0 +1,1 @@
+root Assign targets Name id pgettext_lazy_fu_nc_na_me ^ ^ ^ ^ value Call func Name id lazy_fu_nc_na_me ^ ^ ^ ^ args Name id pgettext_fu_nc_na_me ^ ^ ^ Attribute value Name id six_fu_nc_na_me ^ ^ ^ ^ attr text_type_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

@@ -1,0 +1,1 @@
+root Assign targets Name id zfile_fu_nc_na_me ^ ^ ^ ^ value Call func Name id GzipFile_fu_nc_na_me ^ ^ ^ ^ keywords keyword arg mode_fu_nc_na_me ^ ^ value Str s gen_str ^ ^ ^ ^ ^ keyword arg compresslevel_fu_nc_na_me ^ ^ value Num n 6_fu_nc_na_me ^ ^ ^ ^ ^ keyword arg fileobj_fu_nc_na_me ^ ^ value Name id buf_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

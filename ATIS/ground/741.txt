@@ -1,0 +1,1 @@
+root Assign targets Name id s_fu_nc_na_me ^ ^ ^ ^ value Call func Attribute value Call func Attribute value Call func Name id force_text_fu_nc_na_me ^ ^ ^ ^ args Name id s_fu_nc_na_me ^ ^ ^ ^ ^ ^ attr strip_fu_nc_na_me ^ ^ ^ ^ ^ ^ attr replace_fu_nc_na_me ^ ^ ^ ^ args Str s gen_str ^ ^ ^ Str s gen_str ^ ^ ^ ^ ^ ^ ^ ^

@@ -1,0 +1,1 @@
+root Assign targets Name id EscapeUnicode_fu_nc_na_me ^ ^ ^ ^ value Name id EscapeText_fu_nc_na_me ^ ^ ^ ^ ^ ^

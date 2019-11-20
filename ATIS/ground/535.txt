@@ -1,0 +1,1 @@
+root Assign targets Name id t_fu_nc_na_me ^ ^ ^ ^ value Attribute value Name id self_fu_nc_na_me ^ ^ ^ ^ attr waiting_readers_fu_nc_na_me ^ ^ ^ ^ ^ ^

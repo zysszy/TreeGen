@@ -1,0 +1,1 @@
+root Assign targets Name id orig_vars_fu_nc_na_me ^ ^ ^ ^ value Call func Attribute value Attribute value Name id cls_fu_nc_na_me ^ ^ ^ ^ attr __dict___fu_nc_na_me ^ ^ ^ ^ attr copy_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

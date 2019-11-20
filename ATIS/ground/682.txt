@@ -1,0 +1,1 @@
+root Return value Call func Attribute value Name id self_fu_nc_na_me ^ ^ ^ ^ attr add_truncation_text_fu_nc_na_me ^ ^ ^ ^ args Subscript value Name id text_fu_nc_na_me ^ ^ ^ ^ slice Slice upper BoolOp values Name id end_index_fu_nc_na_me ^ ^ ^ Num n 0_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ Name id truncate_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

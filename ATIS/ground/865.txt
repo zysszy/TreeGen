@@ -1,0 +1,1 @@
+root Assign targets Name id count_fu_nc_na_me ^ ^ ^ ^ value BinOp left Name id since_fu_nc_na_me ^ ^ ^ ^ right Name id seconds_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

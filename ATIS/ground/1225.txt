@@ -1,0 +1,1 @@
+root FunctionDef name to_locale_fu_nc_na_me ^ ^ args arg arg language_fu_nc_na_me ^ ^ ^ arg arg to_lower_fu_nc_na_me ^ ^ ^ defaults NameConstant value False ^ ^ ^ ^ ^ body Pass ^ ^ ^ ^

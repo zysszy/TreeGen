@@ -1,0 +1,1 @@
+root Return value BinOp left List elts Name id globalpath_fu_nc_na_me ^ ^ ^ ^ ^ ^ right Call func Name id list_fu_nc_na_me ^ ^ ^ ^ args Attribute value Name id settings_fu_nc_na_me ^ ^ ^ ^ attr LOCALE_PATHS_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

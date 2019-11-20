@@ -1,0 +1,1 @@
+root Return value Call func Name id ord_fu_nc_na_me ^ ^ ^ ^ args Subscript value Name id bs_fu_nc_na_me ^ ^ ^ ^ slice Index value Num n 0_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

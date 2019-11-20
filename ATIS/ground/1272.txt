@@ -1,0 +1,1 @@
+root Assign targets Name id app_configs_fu_nc_na_me ^ ^ ^ ^ value Call func Name id reversed_fu_nc_na_me ^ ^ ^ ^ args Call func Name id list_fu_nc_na_me ^ ^ ^ ^ args Call func Attribute value Name id apps_fu_nc_na_me ^ ^ ^ ^ attr get_app_configs_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

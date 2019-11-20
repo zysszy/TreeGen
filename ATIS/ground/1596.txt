@@ -1,0 +1,1 @@
+root Assign targets Name id parts_fu_nc_na_me ^ ^ ^ ^ value Call func Attribute value Attribute value Name id t_fu_nc_na_me ^ ^ ^ ^ attr contents_fu_nc_na_me ^ ^ ^ ^ attr split_fu_nc_na_me ^ ^ ^ ^ args Str s gen_str ^ ^ ^ ^ ^ ^ ^ ^

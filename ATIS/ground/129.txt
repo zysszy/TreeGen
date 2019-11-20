@@ -1,0 +1,1 @@
+root Assign targets Name id binary_type_fu_nc_na_me ^ ^ ^ ^ value Name id str_fu_nc_na_me ^ ^ ^ ^ ^ ^

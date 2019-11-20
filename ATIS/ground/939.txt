@@ -1,0 +1,1 @@
+root Return value Subscript value Attribute value Name id _time_fu_nc_na_me ^ ^ ^ ^ attr tzname_fu_nc_na_me ^ ^ ^ ^ slice Index value Name id is_dst_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

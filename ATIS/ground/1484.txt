@@ -1,0 +1,1 @@
+root If test BoolOp values Compare left Name id translators_comment_start_fu_nc_na_me ^ ^ ^ ^ ops IsNot ^ ^ comparators NameConstant ^ ^ ^ Compare left Name id lineno_fu_nc_na_me ^ ^ ^ ^ ops GtE ^ ^ comparators Name id translators_comment_start_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ body Pass ^ ^ ^ ^

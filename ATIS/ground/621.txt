@@ -1,0 +1,1 @@
+root Assign targets Name id capfirst_fu_nc_na_me ^ ^ ^ ^ value Call func Name id allow_lazy_fu_nc_na_me ^ ^ ^ ^ args Name id capfirst_fu_nc_na_me ^ ^ ^ Attribute value Name id six_fu_nc_na_me ^ ^ ^ ^ attr text_type_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

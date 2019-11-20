@@ -1,0 +1,1 @@
+root Assign targets Name id lang_code_fu_nc_na_me ^ ^ ^ ^ value Call func Attribute value Attribute value Name id request_fu_nc_na_me ^ ^ ^ ^ attr COOKIES_fu_nc_na_me ^ ^ ^ ^ attr get_fu_nc_na_me ^ ^ ^ ^ args Attribute value Name id settings_fu_nc_na_me ^ ^ ^ ^ attr LANGUAGE_COOKIE_NAME_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

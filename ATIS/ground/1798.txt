@@ -1,0 +1,1 @@
+root ClassDef name SimplerXMLGenerator_fu_nc_na_me ^ ^ bases Name id XMLGenerator_fu_nc_na_me ^ ^ ^ ^ body Pass ^ ^ ^ ^

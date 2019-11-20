@@ -1,0 +1,1 @@
+root For target Name id localedir_fu_nc_na_me ^ ^ ^ ^ iter Call func Name id reversed_fu_nc_na_me ^ ^ ^ ^ args Attribute value Name id settings_fu_nc_na_me ^ ^ ^ ^ attr LOCALE_PATHS_fu_nc_na_me ^ ^ ^ ^ ^ ^ body Pass ^ ^ ^ ^

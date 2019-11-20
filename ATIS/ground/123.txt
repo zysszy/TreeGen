@@ -1,0 +1,1 @@
+root Assign targets Name id MAXSIZE_fu_nc_na_me ^ ^ ^ ^ value Attribute value Name id sys_fu_nc_na_me ^ ^ ^ ^ attr maxsize_fu_nc_na_me ^ ^ ^ ^ ^ ^

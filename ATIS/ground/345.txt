@@ -1,0 +1,1 @@
+root Assign targets Name id int2byte_fu_nc_na_me ^ ^ ^ ^ value Call func Attribute value Name id operator_fu_nc_na_me ^ ^ ^ ^ attr methodcaller_fu_nc_na_me ^ ^ ^ ^ args Str s gen_str ^ ^ ^ Num n 1_fu_nc_na_me ^ ^ ^ Str s gen_str ^ ^ ^ ^ ^ ^ ^ ^

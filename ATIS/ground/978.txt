@@ -1,0 +1,1 @@
+root If test Call func Name id isinstance_fu_nc_na_me ^ ^ ^ ^ args Name id timezone_fu_nc_na_me ^ ^ ^ Name id tzinfo_fu_nc_na_me ^ ^ ^ ^ ^ ^ body Pass ^ ^ ^ ^

@@ -1,0 +1,1 @@
+root Assign targets Name id space_fu_nc_na_me ^ ^ ^ ^ value BinOp left Call func Attribute value Subscript value Name id line_fu_nc_na_me ^ ^ ^ ^ slice Slice upper BinOp left Name id max_width_fu_nc_na_me ^ ^ ^ ^ right Num n 1_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ attr rfind_fu_nc_na_me ^ ^ ^ ^ args Str s gen_str ^ ^ ^ ^ ^ ^ right Num n 1_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

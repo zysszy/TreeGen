@@ -1,0 +1,1 @@
+root FunctionDef name __get___fu_nc_na_me ^ ^ args arg arg self_fu_nc_na_me ^ ^ ^ arg arg obj_fu_nc_na_me ^ ^ ^ arg arg tp_fu_nc_na_me ^ ^ ^ ^ body Pass ^ ^ ^ ^

@@ -1,0 +1,1 @@
+root Return value Compare left Attribute value Name id tt_fu_nc_na_me ^ ^ ^ ^ attr tm_isdst_fu_nc_na_me ^ ^ ^ ^ ops Gt ^ ^ comparators Num n 0_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

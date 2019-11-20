@@ -1,0 +1,1 @@
+root ImportFrom module django.utils.translation_fu_nc_na_me ^ ^ names alias name trans_real_fu_nc_na_me ^ ^ asname trans_fu_nc_na_me ^ ^ ^ ^ level 0 ^ ^ ^ ^

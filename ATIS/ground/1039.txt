@@ -1,0 +1,1 @@
+root ClassDef name TranslatorCommentWarning_fu_nc_na_me ^ ^ bases Name id SyntaxWarning_fu_nc_na_me ^ ^ ^ ^ body Pass ^ ^ ^ ^

@@ -1,0 +1,1 @@
+root Assign targets Name id SafeString_fu_nc_na_me ^ ^ ^ ^ value Name id SafeText_fu_nc_na_me ^ ^ ^ ^ ^ ^

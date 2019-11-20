@@ -1,0 +1,1 @@
+root If test BoolOp values Name id now_fu_nc_na_me ^ ^ ^ UnaryOp operand Call func Name id isinstance_fu_nc_na_me ^ ^ ^ ^ args Name id now_fu_nc_na_me ^ ^ ^ Attribute value Name id datetime_fu_nc_na_me ^ ^ ^ ^ attr datetime_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ body Pass ^ ^ ^ ^

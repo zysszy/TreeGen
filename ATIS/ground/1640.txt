@@ -1,0 +1,1 @@
+root Assign targets Name id obj_fu_nc_na_me ^ ^ ^ ^ value Call func Name id Node_fu_nc_na_me ^ ^ ^ ^ args Name id children_fu_nc_na_me ^ ^ ^ Name id connector_fu_nc_na_me ^ ^ ^ Name id negated_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

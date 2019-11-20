@@ -1,0 +1,1 @@
+root Return value Subscript value Name id LANG_INFO_fu_nc_na_me ^ ^ ^ ^ slice Index value Name id generic_lang_code_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

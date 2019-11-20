@@ -1,0 +1,1 @@
+root FunctionDef name javascript_quote_fu_nc_na_me ^ ^ args arg arg s_fu_nc_na_me ^ ^ ^ arg arg quote_double_quotes_fu_nc_na_me ^ ^ ^ defaults NameConstant value False ^ ^ ^ ^ ^ body Pass ^ ^ ^ ^

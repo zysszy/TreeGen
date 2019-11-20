@@ -1,0 +1,1 @@
+root Return value Call func Call func Name id getattr_fu_nc_na_me ^ ^ ^ ^ args Name id self_fu_nc_na_me ^ ^ ^ Name id _assertCountEqual_fu_nc_na_me ^ ^ ^ ^ ^ ^ args Starred value Name id args_fu_nc_na_me ^ ^ ^ ^ ^ ^ keywords keyword value Name id kwargs_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

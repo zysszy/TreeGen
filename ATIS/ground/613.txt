@@ -1,0 +1,1 @@
+root ImportFrom module django.utils.functional_fu_nc_na_me ^ ^ names alias name allow_lazy_fu_nc_na_me ^ ^ ^ alias name SimpleLazyObject_fu_nc_na_me ^ ^ ^ ^ level 0 ^ ^ ^ ^

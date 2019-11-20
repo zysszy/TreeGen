@@ -1,0 +1,1 @@
+root Return value Call func Call func Name id getattr_fu_nc_na_me ^ ^ ^ ^ args Name id _default_fu_nc_na_me ^ ^ ^ Name id translation_function_fu_nc_na_me ^ ^ ^ ^ ^ ^ args Name id singular_fu_nc_na_me ^ ^ ^ Name id plural_fu_nc_na_me ^ ^ ^ Name id number_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

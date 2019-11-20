@@ -1,0 +1,1 @@
+root If test BoolOp values Compare left Name id lang_code_fu_nc_na_me ^ ^ ^ ^ ops In ^ ^ comparators Name id _supported_fu_nc_na_me ^ ^ ^ ^ ^ Compare left Name id lang_code_fu_nc_na_me ^ ^ ^ ^ ops IsNot ^ ^ comparators NameConstant ^ ^ ^ Call func Name id check_for_language_fu_nc_na_me ^ ^ ^ ^ args Name id lang_code_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ body Pass ^ ^ ^ ^

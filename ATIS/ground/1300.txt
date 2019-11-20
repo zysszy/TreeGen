@@ -1,0 +1,1 @@
+root If test Compare left Name id language_fu_nc_na_me ^ ^ ^ ^ ops In ^ ^ comparators Name id _DJANGO_DEPRECATED_LOCALES_fu_nc_na_me ^ ^ ^ ^ ^ ^ body Pass ^ ^ ^ ^

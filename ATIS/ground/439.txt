@@ -1,0 +1,1 @@
+root ClassDef name metaclass_fu_nc_na_me ^ ^ bases Name id meta_fu_nc_na_me ^ ^ ^ ^ body Pass ^ ^ ^ ^

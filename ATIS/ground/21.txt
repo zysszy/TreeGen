@@ -1,0 +1,1 @@
+root Expr value Call func Attribute value Subscript value Name id result_args_fu_nc_na_me ^ ^ ^ ^ slice Index value Name id i_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ attr append_fu_nc_na_me ^ ^ ^ ^ args Name id param_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

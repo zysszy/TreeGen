@@ -1,0 +1,1 @@
+root Raise exc Call func Name id AttributeError_fu_nc_na_me ^ ^ ^ ^ args Name id attr_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

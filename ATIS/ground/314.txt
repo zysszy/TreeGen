@@ -1,0 +1,1 @@
+root FunctionDef name create_bound_method_fu_nc_na_me ^ ^ args arg arg func_fu_nc_na_me ^ ^ ^ arg arg obj_fu_nc_na_me ^ ^ ^ ^ body Pass ^ ^ ^ ^

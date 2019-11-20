@@ -1,0 +1,1 @@
+root Expr value Call func Attribute value Name id out_fu_nc_na_me ^ ^ ^ ^ attr write_fu_nc_na_me ^ ^ ^ ^ args BinOp left Str s gen_str ^ ^ ^ ^ right Name id cmatch_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

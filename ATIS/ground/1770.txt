@@ -1,0 +1,1 @@
+root Return value Call func Name id str_fu_nc_na_me ^ ^ ^ ^ args BinOp left Name id major_fu_nc_na_me ^ ^ ^ ^ right Name id sub_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

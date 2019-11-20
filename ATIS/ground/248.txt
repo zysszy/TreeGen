@@ -1,0 +1,1 @@
+root Assign targets Name id _urllib_robotparser_moved_attributes_fu_nc_na_me ^ ^ ^ ^ value List elts Call func Name id MovedAttribute_fu_nc_na_me ^ ^ ^ ^ args Str s gen_str ^ ^ ^ Str s gen_str ^ ^ ^ Str s gen_str ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

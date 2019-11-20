@@ -1,0 +1,1 @@
+root Raise exc Call func Attribute value Name id value_fu_nc_na_me ^ ^ ^ ^ attr with_traceback_fu_nc_na_me ^ ^ ^ ^ args Name id tb_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

@@ -1,0 +1,1 @@
+root ClassDef name Module_six_moves_urllib_error_fu_nc_na_me ^ ^ bases Name id _LazyModule_fu_nc_na_me ^ ^ ^ ^ body Pass ^ ^ ^ ^

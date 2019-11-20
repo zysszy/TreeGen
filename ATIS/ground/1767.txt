@@ -1,0 +1,1 @@
+root If test NameConstant value True ^ ^ ^ ^ body Pass ^ ^ orelse If test Compare left Subscript value Name id version_fu_nc_na_me ^ ^ ^ ^ slice Index value Num n 3_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ops NotEq ^ ^ comparators Str s gen_str ^ ^ ^ ^ ^ ^ body Pass ^ ^ ^ ^ ^ ^

@@ -1,0 +1,1 @@
+root FunctionDef name remove_move_fu_nc_na_me ^ ^ args arg arg name_fu_nc_na_me ^ ^ ^ ^ body Pass ^ ^ ^ ^

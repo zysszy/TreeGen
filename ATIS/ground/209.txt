@@ -1,0 +1,1 @@
+root Return value Call func Name id getattr_fu_nc_na_me ^ ^ ^ ^ args Name id module_fu_nc_na_me ^ ^ ^ Attribute value Name id self_fu_nc_na_me ^ ^ ^ ^ attr attr_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

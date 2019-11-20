@@ -1,0 +1,1 @@
+root AugAssign target Name id attrs_fu_nc_na_me ^ ^ ^ ^ value ListComp elt Attribute value Name id attr_fu_nc_na_me ^ ^ ^ ^ attr name_fu_nc_na_me ^ ^ ^ ^ generators comprehension target Name id attr_fu_nc_na_me ^ ^ ^ ^ iter Attribute value Name id self_fu_nc_na_me ^ ^ ^ ^ attr _moved_attributes_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

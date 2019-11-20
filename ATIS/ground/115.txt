@@ -1,0 +1,1 @@
+root Assign targets Name id PY2_fu_nc_na_me ^ ^ ^ ^ value Compare left Subscript value Attribute value Name id sys_fu_nc_na_me ^ ^ ^ ^ attr version_info_fu_nc_na_me ^ ^ ^ ^ slice Index value Num n 0_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ops Eq ^ ^ comparators Num n 2_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

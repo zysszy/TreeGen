@@ -1,0 +1,1 @@
+root If test Compare left Attribute value Name id value_fu_nc_na_me ^ ^ ^ ^ attr __traceback___fu_nc_na_me ^ ^ ^ ^ ops IsNot ^ ^ comparators Name id tb_fu_nc_na_me ^ ^ ^ ^ ^ ^ body Pass ^ ^ ^ ^

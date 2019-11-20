@@ -1,0 +1,1 @@
+root If test UnaryOp operand Call func Name id isinstance_fu_nc_na_me ^ ^ ^ ^ args Name id d_fu_nc_na_me ^ ^ ^ Attribute value Name id datetime_fu_nc_na_me ^ ^ ^ ^ attr datetime_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ body Pass ^ ^ ^ ^

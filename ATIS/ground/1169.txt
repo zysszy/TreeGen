@@ -1,0 +1,1 @@
+root Assign targets Name id get_language_bidi_fu_nc_na_me ^ ^ ^ ^ value Lambda args arguments ^ ^ body Compare left Attribute value Name id settings_fu_nc_na_me ^ ^ ^ ^ attr LANGUAGE_CODE_fu_nc_na_me ^ ^ ^ ^ ops In ^ ^ comparators Attribute value Name id settings_fu_nc_na_me ^ ^ ^ ^ attr LANGUAGES_BIDI_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

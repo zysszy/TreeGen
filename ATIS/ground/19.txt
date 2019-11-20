@@ -1,0 +1,1 @@
+root AugAssign target Subscript value Name id result_fu_nc_na_me ^ ^ ^ ^ slice Index value Name id i_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ value Name id piece_fu_nc_na_me ^ ^ ^ ^ ^ ^

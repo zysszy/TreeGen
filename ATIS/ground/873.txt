@@ -1,0 +1,1 @@
+root AugAssign target Name id result_fu_nc_na_me ^ ^ ^ ^ value BinOp left Call func Name id ugettext_fu_nc_na_me ^ ^ ^ ^ args Str s gen_str ^ ^ ^ ^ ^ ^ right Call func Name id avoid_wrapping_fu_nc_na_me ^ ^ ^ ^ args BinOp left Name id name2_fu_nc_na_me ^ ^ ^ ^ right Name id count2_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

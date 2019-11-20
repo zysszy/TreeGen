@@ -1,0 +1,1 @@
+root Assign targets Name id result_fu_nc_na_me ^ ^ ^ ^ value Call func Name id ungettext_fu_nc_na_me ^ ^ ^ ^ args Name id singular_fu_nc_na_me ^ ^ ^ Name id plural_fu_nc_na_me ^ ^ ^ Name id number_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

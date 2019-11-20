@@ -1,0 +1,1 @@
+root FunctionDef name get_text_list_fu_nc_na_me ^ ^ args arg arg list__fu_nc_na_me ^ ^ ^ arg arg last_word_fu_nc_na_me ^ ^ ^ defaults Call func Name id ugettext_lazy_fu_nc_na_me ^ ^ ^ ^ args Str s gen_str ^ ^ ^ ^ ^ ^ ^ body Pass ^ ^ ^ ^

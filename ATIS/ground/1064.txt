@@ -1,0 +1,1 @@
+root Return value Call func Attribute value Name id _trans_fu_nc_na_me ^ ^ ^ ^ attr pgettext_fu_nc_na_me ^ ^ ^ ^ args Name id context_fu_nc_na_me ^ ^ ^ Name id message_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

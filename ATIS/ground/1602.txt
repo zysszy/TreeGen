@@ -1,0 +1,1 @@
+root Expr value Call func Attribute value Name id out_fu_nc_na_me ^ ^ ^ ^ attr write_fu_nc_na_me ^ ^ ^ ^ args BinOp left Str s gen_str ^ ^ ^ ^ right Subscript value Call func Attribute value Name id p_fu_nc_na_me ^ ^ ^ ^ attr split_fu_nc_na_me ^ ^ ^ ^ args Str s gen_str ^ ^ ^ Num n 1_fu_nc_na_me ^ ^ ^ ^ ^ ^ slice Index value Num n 1_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

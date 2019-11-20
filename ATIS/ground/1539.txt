@@ -1,0 +1,1 @@
+root If test Compare left Name id comment_lineno_cache_fu_nc_na_me ^ ^ ^ ^ ops Eq ^ ^ comparators Name id cur_lineno_fu_nc_na_me ^ ^ ^ ^ ^ ^ body Pass ^ ^ ^ ^

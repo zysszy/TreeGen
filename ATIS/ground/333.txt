@@ -1,0 +1,1 @@
+root FunctionDef name iterlists_fu_nc_na_me ^ ^ args arg arg d_fu_nc_na_me ^ ^ ^ kwarg arg arg kw_fu_nc_na_me ^ ^ ^ ^ ^ body Pass ^ ^ ^ ^

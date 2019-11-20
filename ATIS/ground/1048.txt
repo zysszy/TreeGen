@@ -1,0 +1,1 @@
+root Expr value Call func Name id setattr_fu_nc_na_me ^ ^ ^ ^ args Name id self_fu_nc_na_me ^ ^ ^ Name id real_name_fu_nc_na_me ^ ^ ^ Call func Name id getattr_fu_nc_na_me ^ ^ ^ ^ args Name id trans_fu_nc_na_me ^ ^ ^ Name id real_name_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

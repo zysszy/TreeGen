@@ -1,0 +1,1 @@
+root Expr value Call func Attribute value Call func Name id super_fu_nc_na_me ^ ^ ^ ^ args Name id Truncator_fu_nc_na_me ^ ^ ^ Name id self_fu_nc_na_me ^ ^ ^ ^ ^ ^ attr __init___fu_nc_na_me ^ ^ ^ ^ args Lambda args arguments ^ ^ body Call func Name id force_text_fu_nc_na_me ^ ^ ^ ^ args Name id text_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

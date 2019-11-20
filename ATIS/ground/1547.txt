@@ -1,0 +1,1 @@
+root Assign targets Subscript value Name id lineno_comment_map_fu_nc_na_me ^ ^ ^ ^ slice Index value Name id comment_lineno_cache_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ value List ^ ^ ^ ^

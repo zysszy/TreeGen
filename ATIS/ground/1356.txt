@@ -1,0 +1,1 @@
+root FunctionDef name do_ntranslate_fu_nc_na_me ^ ^ args arg arg singular_fu_nc_na_me ^ ^ ^ arg arg plural_fu_nc_na_me ^ ^ ^ arg arg number_fu_nc_na_me ^ ^ ^ arg arg translation_function_fu_nc_na_me ^ ^ ^ ^ body Pass ^ ^ ^ ^

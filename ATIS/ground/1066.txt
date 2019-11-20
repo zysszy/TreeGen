@@ -1,0 +1,1 @@
+root Return value Call func Attribute value Name id _trans_fu_nc_na_me ^ ^ ^ ^ attr npgettext_fu_nc_na_me ^ ^ ^ ^ args Name id context_fu_nc_na_me ^ ^ ^ Name id singular_fu_nc_na_me ^ ^ ^ Name id plural_fu_nc_na_me ^ ^ ^ Name id number_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

@@ -1,0 +1,1 @@
+root If test Compare left Call func Name id type_fu_nc_na_me ^ ^ ^ ^ args Name id s_fu_nc_na_me ^ ^ ^ ^ ^ ^ ops Eq ^ ^ comparators Name id bytes_fu_nc_na_me ^ ^ ^ ^ ^ ^ body Pass ^ ^ ^ ^

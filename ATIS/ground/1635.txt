@@ -1,0 +1,1 @@
+root Assign targets Attribute value Name id self_fu_nc_na_me ^ ^ ^ ^ attr children_fu_nc_na_me ^ ^ ^ ^ value IfExp test Name id children_fu_nc_na_me ^ ^ ^ ^ body Subscript value Name id children_fu_nc_na_me ^ ^ ^ ^ slice Slice ^ ^ ^ ^ orelse List ^ ^ ^ ^ ^ ^

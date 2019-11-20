@@ -1,0 +1,1 @@
+root Assign targets Tuple elts Name id first_fu_nc_na_me ^ ^ ^ Name id lang_fu_nc_na_me ^ ^ ^ Name id priority_fu_nc_na_me ^ ^ ^ ^ ^ ^ value Subscript value Name id pieces_fu_nc_na_me ^ ^ ^ ^ slice Slice lower Name id i_fu_nc_na_me ^ ^ ^ ^ upper BinOp left Name id i_fu_nc_na_me ^ ^ ^ ^ right Num n 3_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

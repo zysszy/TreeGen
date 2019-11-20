@@ -1,0 +1,1 @@
+root FunctionDef name reset_cache_fu_nc_na_me ^ ^ args arguments kwarg arg arg kwargs_fu_nc_na_me ^ ^ ^ ^ ^ ^ body Pass ^ ^ ^ ^

@@ -1,0 +1,1 @@
+root Assign targets Name id encode_fu_nc_na_me ^ ^ ^ ^ value Call func Name id curry_fu_nc_na_me ^ ^ ^ ^ args Name id _proxy_method_fu_nc_na_me ^ ^ ^ ^ keywords keyword arg method_fu_nc_na_me ^ ^ value Attribute value Attribute value Name id six_fu_nc_na_me ^ ^ ^ ^ attr text_type_fu_nc_na_me ^ ^ ^ ^ attr encode_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

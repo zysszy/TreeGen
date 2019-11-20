@@ -1,0 +1,1 @@
+root ImportFrom module django.utils.translation_fu_nc_na_me ^ ^ names alias name TranslatorCommentWarning_fu_nc_na_me ^ ^ ^ alias name trim_whitespace_fu_nc_na_me ^ ^ ^ alias name LANGUAGE_SESSION_KEY_fu_nc_na_me ^ ^ ^ ^ level 0 ^ ^ ^ ^

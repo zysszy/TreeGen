@@ -1,0 +1,1 @@
+root Assign targets Name id params_fu_nc_na_me ^ ^ ^ ^ value List elts Subscript value Name id source_fu_nc_na_me ^ ^ ^ ^ slice Index value Num n 1_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

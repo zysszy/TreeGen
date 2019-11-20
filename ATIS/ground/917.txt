@@ -1,0 +1,1 @@
+root Assign targets Attribute value Name id self_fu_nc_na_me ^ ^ ^ ^ attr DSTDIFF_fu_nc_na_me ^ ^ ^ ^ value BinOp left Attribute value Name id self_fu_nc_na_me ^ ^ ^ ^ attr DSTOFFSET_fu_nc_na_me ^ ^ ^ ^ right Attribute value Name id self_fu_nc_na_me ^ ^ ^ ^ attr STDOFFSET_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

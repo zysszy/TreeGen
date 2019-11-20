@@ -1,0 +1,1 @@
+root If test Call func Name id isinstance_fu_nc_na_me ^ ^ ^ ^ args Name id elt_fu_nc_na_me ^ ^ ^ Attribute value Name id six_fu_nc_na_me ^ ^ ^ ^ attr string_types_fu_nc_na_me ^ ^ ^ ^ ^ ^ body Pass ^ ^ ^ ^

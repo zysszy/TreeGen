@@ -1,0 +1,1 @@
+root ClassDef name FixedOffset_fu_nc_na_me ^ ^ bases Name id tzinfo_fu_nc_na_me ^ ^ ^ ^ body Pass ^ ^ ^ ^

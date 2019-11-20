@@ -1,0 +1,1 @@
+root Assign targets Name id parts_fu_nc_na_me ^ ^ ^ ^ value IfExp test Compare left Subscript value Name id version_fu_nc_na_me ^ ^ ^ ^ slice Index value Num n 2_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ops Eq ^ ^ comparators Num n 0_fu_nc_na_me ^ ^ ^ ^ ^ ^ body Num n 2_fu_nc_na_me ^ ^ ^ ^ orelse Num n 3_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

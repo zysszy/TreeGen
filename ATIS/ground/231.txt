@@ -1,0 +1,1 @@
+root Assign targets Attribute value Name id Module_six_moves_urllib_error_fu_nc_na_me ^ ^ ^ ^ attr _moved_attributes_fu_nc_na_me ^ ^ ^ ^ value Name id _urllib_error_moved_attributes_fu_nc_na_me ^ ^ ^ ^ ^ ^

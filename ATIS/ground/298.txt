@@ -1,0 +1,1 @@
+root FunctionDef name advance_iterator_fu_nc_na_me ^ ^ args arg arg it_fu_nc_na_me ^ ^ ^ ^ body Pass ^ ^ ^ ^

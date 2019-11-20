@@ -1,0 +1,1 @@
+root Assign targets Subscript value Name id definition_fu_nc_na_me ^ ^ ^ ^ slice Index value Str s gen_str ^ ^ ^ ^ ^ ^ ^ ^ value Subscript value Name id colors_fu_nc_na_me ^ ^ ^ ^ slice Index value UnaryOp operand Num n 1_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

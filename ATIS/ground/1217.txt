@@ -1,0 +1,1 @@
+root Assign targets Name id _DJANGO_DEPRECATED_LOCALES_fu_nc_na_me ^ ^ ^ ^ value Name id _BROWSERS_DEPRECATED_LOCALES_fu_nc_na_me ^ ^ ^ ^ ^ ^

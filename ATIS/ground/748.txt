@@ -1,0 +1,1 @@
+root Return value Call func Name id force_text_fu_nc_na_me ^ ^ ^ ^ args Subscript value Name id list__fu_nc_na_me ^ ^ ^ ^ slice Index value Num n 0_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

@@ -1,0 +1,1 @@
+root FunctionDef name __exit___fu_nc_na_me ^ ^ args arg arg self_fu_nc_na_me ^ ^ ^ arg arg exc_type_fu_nc_na_me ^ ^ ^ arg arg exc_value_fu_nc_na_me ^ ^ ^ arg arg traceback_fu_nc_na_me ^ ^ ^ ^ body Pass ^ ^ ^ ^

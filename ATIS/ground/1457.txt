@@ -1,0 +1,1 @@
+root ImportFrom module django.template_fu_nc_na_me ^ ^ names alias name Lexer_fu_nc_na_me ^ ^ ^ alias name TOKEN_TEXT_fu_nc_na_me ^ ^ ^ alias name TOKEN_VAR_fu_nc_na_me ^ ^ ^ alias name TOKEN_BLOCK_fu_nc_na_me ^ ^ ^ alias name TOKEN_COMMENT_fu_nc_na_me ^ ^ ^ alias name TRANSLATOR_COMMENT_MARK_fu_nc_na_me ^ ^ ^ ^ level 0 ^ ^ ^ ^

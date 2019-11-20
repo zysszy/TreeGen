@@ -1,0 +1,1 @@
+root FunctionDef name reraise_fu_nc_na_me ^ ^ args arg arg tp_fu_nc_na_me ^ ^ ^ arg arg value_fu_nc_na_me ^ ^ ^ arg arg tb_fu_nc_na_me ^ ^ ^ defaults NameConstant ^ ^ ^ body Pass ^ ^ ^ ^

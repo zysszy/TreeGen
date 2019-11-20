@@ -1,0 +1,1 @@
+root If test Compare left Name id data_fu_nc_na_me ^ ^ ^ ^ ops In ^ ^ comparators Attribute value Name id self_fu_nc_na_me ^ ^ ^ ^ attr children_fu_nc_na_me ^ ^ ^ ^ ^ ^ body Pass ^ ^ ^ ^

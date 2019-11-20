@@ -1,0 +1,1 @@
+root ClassDef name Truncator_fu_nc_na_me ^ ^ bases Name id SimpleLazyObject_fu_nc_na_me ^ ^ ^ ^ body Pass ^ ^ ^ ^

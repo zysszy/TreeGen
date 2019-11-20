@@ -1,0 +1,1 @@
+root Assign targets Name id result_fu_nc_na_me ^ ^ ^ ^ value Call func Name id ungettext_fu_nc_na_me ^ ^ ^ ^ args Starred value Name id msgs_with_ctxt_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

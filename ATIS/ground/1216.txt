@@ -1,0 +1,1 @@
+root Assign targets Name id _BROWSERS_DEPRECATED_LOCALES_fu_nc_na_me ^ ^ ^ ^ value Dict keys Str s gen_str ^ ^ ^ Str s gen_str ^ ^ ^ ^ values Str s gen_str ^ ^ ^ Str s gen_str ^ ^ ^ ^ ^ ^ ^ ^

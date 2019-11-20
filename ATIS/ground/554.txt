@@ -1,0 +1,1 @@
+root FunctionDef name colorize_fu_nc_na_me ^ ^ args arg arg text_fu_nc_na_me ^ ^ ^ arg arg opts_fu_nc_na_me ^ ^ ^ kwarg arg arg kwargs_fu_nc_na_me ^ ^ ^ ^ defaults Str s gen_str ^ ^ ^ Tuple ^ ^ ^ body Pass ^ ^ ^ ^

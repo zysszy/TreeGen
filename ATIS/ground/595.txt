@@ -1,0 +1,1 @@
+root If test BoolOp values Name id colors_fu_nc_na_me ^ ^ ^ Compare left Subscript value Name id colors_fu_nc_na_me ^ ^ ^ ^ slice Index value UnaryOp operand Num n 1_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ops In ^ ^ comparators Name id color_names_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ body Pass ^ ^ ^ ^

@@ -1,0 +1,1 @@
+root ClassDef name SafeBytes_fu_nc_na_me ^ ^ bases Name id bytes_fu_nc_na_me ^ ^ ^ Name id SafeData_fu_nc_na_me ^ ^ ^ ^ body Pass ^ ^ ^ ^

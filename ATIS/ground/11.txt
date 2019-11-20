@@ -1,0 +1,1 @@
+root Assign targets Name id piece_fu_nc_na_me ^ ^ ^ ^ value Call func Attribute value Str s gen_str ^ ^ ^ ^ attr join_fu_nc_na_me ^ ^ ^ ^ args Subscript value Name id source_fu_nc_na_me ^ ^ ^ ^ slice Slice lower Name id last_fu_nc_na_me ^ ^ ^ ^ upper Name id pos_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

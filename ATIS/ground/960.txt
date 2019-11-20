@@ -1,0 +1,1 @@
+root If test BoolOp values Call func Name id isinstance_fu_nc_na_me ^ ^ ^ ^ args Attribute value Name id settings_fu_nc_na_me ^ ^ ^ ^ attr TIME_ZONE_fu_nc_na_me ^ ^ ^ Attribute value Name id six_fu_nc_na_me ^ ^ ^ ^ attr string_types_fu_nc_na_me ^ ^ ^ ^ ^ Compare left Name id pytz_fu_nc_na_me ^ ^ ^ ^ ops IsNot ^ ^ comparators NameConstant ^ ^ ^ ^ ^ ^ body Pass ^ ^ ^ ^

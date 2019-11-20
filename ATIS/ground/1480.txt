@@ -1,0 +1,1 @@
+root For target Tuple elts Name id lineno_fu_nc_na_me ^ ^ ^ Name id line_fu_nc_na_me ^ ^ ^ ^ ^ ^ iter Call func Name id enumerate_fu_nc_na_me ^ ^ ^ ^ args Call func Attribute value Name id content_fu_nc_na_me ^ ^ ^ ^ attr splitlines_fu_nc_na_me ^ ^ ^ ^ args NameConstant value True ^ ^ ^ ^ ^ ^ ^ ^ body Pass ^ ^ ^ ^

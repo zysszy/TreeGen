@@ -1,0 +1,1 @@
+root Expr value Yield value BinOp left Str s gen_str ^ ^ ^ ^ right Subscript value Name id line_fu_nc_na_me ^ ^ ^ ^ slice Slice upper BinOp left Name id space_fu_nc_na_me ^ ^ ^ ^ right Num n 1_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

@@ -1,0 +1,1 @@
+root Assign targets Name id cmatch_fu_nc_na_me ^ ^ ^ ^ value Call func Attribute value Name id constant_re_fu_nc_na_me ^ ^ ^ ^ attr match_fu_nc_na_me ^ ^ ^ ^ args Subscript value Name id parts_fu_nc_na_me ^ ^ ^ ^ slice Index value Num n 0_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

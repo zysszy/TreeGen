@@ -1,0 +1,1 @@
+root Assign targets Name id MAXSIZE_fu_nc_na_me ^ ^ ^ ^ value Call func Name id int_fu_nc_na_me ^ ^ ^ ^ args BinOp left BinOp left Num n 1_fu_nc_na_me ^ ^ ^ ^ right Num n 31_fu_nc_na_me ^ ^ ^ ^ ^ ^ right Num n 1_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

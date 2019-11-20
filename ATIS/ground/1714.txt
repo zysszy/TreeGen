@@ -1,0 +1,1 @@
+root Expr value Call func Attribute value Name id warnings_fu_nc_na_me ^ ^ ^ ^ attr warn_fu_nc_na_me ^ ^ ^ ^ args Str s gen_str ^ ^ ^ Name id RemovedInDjango19Warning_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

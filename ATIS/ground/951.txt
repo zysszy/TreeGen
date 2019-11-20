@@ -1,0 +1,1 @@
+root Assign targets Name id offset_fu_nc_na_me ^ ^ ^ ^ value BinOp left Attribute value Name id offset_fu_nc_na_me ^ ^ ^ ^ attr seconds_fu_nc_na_me ^ ^ ^ ^ right Num n 60_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

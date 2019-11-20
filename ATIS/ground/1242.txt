@@ -1,0 +1,1 @@
+root ClassDef name DjangoTranslation_fu_nc_na_me ^ ^ bases Attribute value Name id gettext_module_fu_nc_na_me ^ ^ ^ ^ attr GNUTranslations_fu_nc_na_me ^ ^ ^ ^ body Pass ^ ^ ^ ^

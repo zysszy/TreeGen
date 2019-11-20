@@ -1,0 +1,1 @@
+root If test Call func Attribute value Call func Attribute value Attribute value Name id t_fu_nc_na_me ^ ^ ^ ^ attr contents_fu_nc_na_me ^ ^ ^ ^ attr lstrip_fu_nc_na_me ^ ^ ^ ^ ^ ^ attr startswith_fu_nc_na_me ^ ^ ^ ^ args Name id TRANSLATOR_COMMENT_MARK_fu_nc_na_me ^ ^ ^ ^ ^ ^ body Pass ^ ^ ^ ^

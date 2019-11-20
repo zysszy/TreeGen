@@ -1,0 +1,1 @@
+root For target Tuple elts Name id item_fu_nc_na_me ^ ^ ^ Name id args_fu_nc_na_me ^ ^ ^ ^ ^ ^ iter Call func Name id zip_fu_nc_na_me ^ ^ ^ ^ args Name id result_fu_nc_na_me ^ ^ ^ Name id result_args_fu_nc_na_me ^ ^ ^ ^ ^ ^ body Pass ^ ^ ^ ^

@@ -1,0 +1,1 @@
+root FunctionDef name gettext_fu_nc_na_me ^ ^ args arg arg message_fu_nc_na_me ^ ^ ^ ^ body Pass ^ ^ ^ ^

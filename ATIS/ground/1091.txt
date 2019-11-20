@@ -1,0 +1,1 @@
+root Assign targets Name id proxy_fu_nc_na_me ^ ^ ^ ^ value Call func Call func Name id lazy_fu_nc_na_me ^ ^ ^ ^ args Lambda args arguments kwarg arg arg kwargs_fu_nc_na_me ^ ^ ^ ^ ^ ^ body Call func Name id NumberAwareString_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ Name id NumberAwareString_fu_nc_na_me ^ ^ ^ ^ ^ ^ keywords keyword value Name id kwargs_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

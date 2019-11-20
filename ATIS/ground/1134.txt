@@ -1,0 +1,1 @@
+root FunctionDef name _string_concat_fu_nc_na_me ^ ^ args arguments vararg arg arg strings_fu_nc_na_me ^ ^ ^ ^ ^ ^ body Pass ^ ^ ^ ^

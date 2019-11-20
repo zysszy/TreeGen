@@ -1,0 +1,1 @@
+root FunctionDef name lazy_number_fu_nc_na_me ^ ^ args arg arg func_fu_nc_na_me ^ ^ ^ arg arg resultclass_fu_nc_na_me ^ ^ ^ arg arg number_fu_nc_na_me ^ ^ ^ kwarg arg arg kwargs_fu_nc_na_me ^ ^ ^ ^ defaults NameConstant ^ ^ ^ body Pass ^ ^ ^ ^

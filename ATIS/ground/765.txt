@@ -1,0 +1,1 @@
+root ClassDef name StreamingBuffer_fu_nc_na_me ^ ^ bases Name id object_fu_nc_na_me ^ ^ ^ ^ body Pass ^ ^ ^ ^

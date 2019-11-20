@@ -1,0 +1,1 @@
+root Assign targets Name id open_tags_fu_nc_na_me ^ ^ ^ ^ value Subscript value Name id open_tags_fu_nc_na_me ^ ^ ^ ^ slice Slice lower BinOp left Name id i_fu_nc_na_me ^ ^ ^ ^ right Num n 1_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

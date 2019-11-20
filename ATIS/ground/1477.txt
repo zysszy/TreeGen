@@ -1,0 +1,1 @@
+root If test BoolOp values Compare left Attribute value Name id t_fu_nc_na_me ^ ^ ^ ^ attr token_type_fu_nc_na_me ^ ^ ^ ^ ops Eq ^ ^ comparators Name id TOKEN_BLOCK_fu_nc_na_me ^ ^ ^ ^ ^ Compare left Attribute value Name id t_fu_nc_na_me ^ ^ ^ ^ attr contents_fu_nc_na_me ^ ^ ^ ^ ops Eq ^ ^ comparators Str s gen_str ^ ^ ^ ^ ^ ^ ^ ^ body Pass ^ ^ ^ ^

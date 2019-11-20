@@ -1,0 +1,1 @@
+root Return value Call func Name id getattr_fu_nc_na_me ^ ^ ^ ^ args Name id trans_fu_nc_na_me ^ ^ ^ Name id real_name_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

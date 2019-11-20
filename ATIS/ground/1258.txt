@@ -1,0 +1,1 @@
+root Assign targets Attribute value Name id translation_fu_nc_na_me ^ ^ ^ ^ attr _catalog_fu_nc_na_me ^ ^ ^ ^ value Dict ^ ^ ^ ^

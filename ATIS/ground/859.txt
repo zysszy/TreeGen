@@ -1,0 +1,1 @@
+root Assign targets Name id now_fu_nc_na_me ^ ^ ^ ^ value Call func Attribute value Attribute value Name id datetime_fu_nc_na_me ^ ^ ^ ^ attr datetime_fu_nc_na_me ^ ^ ^ ^ attr now_fu_nc_na_me ^ ^ ^ ^ args IfExp test Call func Name id is_aware_fu_nc_na_me ^ ^ ^ ^ args Name id d_fu_nc_na_me ^ ^ ^ ^ ^ ^ body Name id utc_fu_nc_na_me ^ ^ ^ ^ orelse NameConstant ^ ^ ^ ^ ^ ^ ^ ^

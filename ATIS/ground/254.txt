@@ -1,0 +1,1 @@
+root ClassDef name Module_six_moves_urllib_fu_nc_na_me ^ ^ bases Attribute value Name id types_fu_nc_na_me ^ ^ ^ ^ attr ModuleType_fu_nc_na_me ^ ^ ^ ^ body Pass ^ ^ ^ ^

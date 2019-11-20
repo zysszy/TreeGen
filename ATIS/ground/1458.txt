@@ -1,0 +1,1 @@
+root Assign targets Name id src_fu_nc_na_me ^ ^ ^ ^ value Call func Name id force_text_fu_nc_na_me ^ ^ ^ ^ args Name id src_fu_nc_na_me ^ ^ ^ Attribute value Name id settings_fu_nc_na_me ^ ^ ^ ^ attr FILE_CHARSET_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

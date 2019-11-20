@@ -1,0 +1,1 @@
+root FunctionDef name npgettext_fu_nc_na_me ^ ^ args arg arg context_fu_nc_na_me ^ ^ ^ arg arg singular_fu_nc_na_me ^ ^ ^ arg arg plural_fu_nc_na_me ^ ^ ^ arg arg number_fu_nc_na_me ^ ^ ^ ^ body Pass ^ ^ ^ ^

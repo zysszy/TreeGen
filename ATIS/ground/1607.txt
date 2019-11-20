@@ -1,0 +1,1 @@
+root Expr value Call func Attribute value Call func Attribute value Name id lineno_comment_map_fu_nc_na_me ^ ^ ^ ^ attr setdefault_fu_nc_na_me ^ ^ ^ ^ args Attribute value Name id t_fu_nc_na_me ^ ^ ^ ^ attr lineno_fu_nc_na_me ^ ^ ^ List ^ ^ ^ ^ attr append_fu_nc_na_me ^ ^ ^ ^ args Attribute value Name id t_fu_nc_na_me ^ ^ ^ ^ attr contents_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

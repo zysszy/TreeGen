@@ -1,0 +1,1 @@
+root Assign targets Tuple elts Name id res_fu_nc_na_me ^ ^ ^ Name id args_fu_nc_na_me ^ ^ ^ ^ ^ ^ value Call func Name id flatten_result_fu_nc_na_me ^ ^ ^ ^ args Name id item_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

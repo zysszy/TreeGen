@@ -1,0 +1,1 @@
+root Assign targets Name id byte2int_fu_nc_na_me ^ ^ ^ ^ value Call func Attribute value Name id operator_fu_nc_na_me ^ ^ ^ ^ attr itemgetter_fu_nc_na_me ^ ^ ^ ^ args Num n 0_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

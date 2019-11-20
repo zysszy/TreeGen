@@ -1,0 +1,1 @@
+root Assign targets Name id newline_fu_nc_na_me ^ ^ ^ ^ value Str s gen_str ^ ^ ^ ^ ^ ^

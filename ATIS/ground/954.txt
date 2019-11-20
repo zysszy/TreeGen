@@ -1,0 +1,1 @@
+root Assign targets Name id name_fu_nc_na_me ^ ^ ^ ^ value BinOp left Name id sign_fu_nc_na_me ^ ^ ^ ^ right Name id hhmm_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

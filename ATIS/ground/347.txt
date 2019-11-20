@@ -1,0 +1,1 @@
+root Assign targets Name id indexbytes_fu_nc_na_me ^ ^ ^ ^ value Attribute value Name id operator_fu_nc_na_me ^ ^ ^ ^ attr getitem_fu_nc_na_me ^ ^ ^ ^ ^ ^

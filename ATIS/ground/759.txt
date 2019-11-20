@@ -1,0 +1,1 @@
+root FunctionDef name compress_string_fu_nc_na_me ^ ^ args arg arg s_fu_nc_na_me ^ ^ ^ ^ body Pass ^ ^ ^ ^

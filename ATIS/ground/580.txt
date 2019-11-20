@@ -1,0 +1,1 @@
+root Assign targets Name id palette_fu_nc_na_me ^ ^ ^ ^ value Call func Attribute value Subscript value Name id PALETTES_fu_nc_na_me ^ ^ ^ ^ slice Index value Name id NOCOLOR_PALETTE_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ attr copy_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

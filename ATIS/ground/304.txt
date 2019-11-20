@@ -1,0 +1,1 @@
+root FunctionDef name callable_fu_nc_na_me ^ ^ args arg arg obj_fu_nc_na_me ^ ^ ^ ^ body Pass ^ ^ ^ ^

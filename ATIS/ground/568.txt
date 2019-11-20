@@ -1,0 +1,1 @@
+root Return value BinOp left Str s gen_str ^ ^ ^ ^ right Tuple elts BinOp left Str s gen_str ^ ^ ^ ^ right Call func Attribute value Str s gen_str ^ ^ ^ ^ attr join_fu_nc_na_me ^ ^ ^ ^ args Name id code_list_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ BoolOp values Name id text_fu_nc_na_me ^ ^ ^ Str s gen_str ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

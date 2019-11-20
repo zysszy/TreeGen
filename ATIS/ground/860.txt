@@ -1,0 +1,1 @@
+root Assign targets Name id delta_fu_nc_na_me ^ ^ ^ ^ value IfExp test Name id reversed_fu_nc_na_me ^ ^ ^ ^ body BinOp left Name id d_fu_nc_na_me ^ ^ ^ ^ right Name id now_fu_nc_na_me ^ ^ ^ ^ ^ ^ orelse BinOp left Name id now_fu_nc_na_me ^ ^ ^ ^ right Name id d_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

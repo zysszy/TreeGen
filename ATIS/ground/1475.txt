@@ -1,0 +1,1 @@
+root For target Name id t_fu_nc_na_me ^ ^ ^ ^ iter Call func Attribute value Call func Name id Lexer_fu_nc_na_me ^ ^ ^ ^ args Name id src_fu_nc_na_me ^ ^ ^ Name id origin_fu_nc_na_me ^ ^ ^ ^ ^ ^ attr tokenize_fu_nc_na_me ^ ^ ^ ^ ^ ^ body Pass ^ ^ ^ ^

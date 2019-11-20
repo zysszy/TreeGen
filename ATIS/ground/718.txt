@@ -1,0 +1,1 @@
+root Assign targets Tuple elts Name id closing_tag_fu_nc_na_me ^ ^ ^ Name id tagname_fu_nc_na_me ^ ^ ^ Name id self_closing_fu_nc_na_me ^ ^ ^ ^ ^ ^ value Call func Attribute value Name id tag_fu_nc_na_me ^ ^ ^ ^ attr groups_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

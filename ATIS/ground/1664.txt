@@ -1,0 +1,1 @@
+root FunctionDef name add_fu_nc_na_me ^ ^ args arg arg self_fu_nc_na_me ^ ^ ^ arg arg data_fu_nc_na_me ^ ^ ^ arg arg conn_type_fu_nc_na_me ^ ^ ^ arg arg squash_fu_nc_na_me ^ ^ ^ defaults NameConstant value True ^ ^ ^ ^ ^ body Pass ^ ^ ^ ^

@@ -1,0 +1,1 @@
+root Expr value Call func Name id delattr_fu_nc_na_me ^ ^ ^ ^ args Attribute value Name id obj_fu_nc_na_me ^ ^ ^ ^ attr __class___fu_nc_na_me ^ ^ ^ Attribute value Name id self_fu_nc_na_me ^ ^ ^ ^ attr name_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

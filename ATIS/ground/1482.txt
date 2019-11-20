@@ -1,0 +1,1 @@
+root Assign targets Name id translators_comment_start_fu_nc_na_me ^ ^ ^ ^ value Name id lineno_fu_nc_na_me ^ ^ ^ ^ ^ ^

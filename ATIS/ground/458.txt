@@ -1,0 +1,1 @@
+root Return value Call func Name id metaclass_fu_nc_na_me ^ ^ ^ ^ args Attribute value Name id cls_fu_nc_na_me ^ ^ ^ ^ attr __name___fu_nc_na_me ^ ^ ^ Attribute value Name id cls_fu_nc_na_me ^ ^ ^ ^ attr __bases___fu_nc_na_me ^ ^ ^ Name id orig_vars_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

@@ -1,0 +1,1 @@
+root Assign targets Name id gettext_noop_fu_nc_na_me ^ ^ ^ Name id gettext_lazy_fu_nc_na_me ^ ^ ^ Name id __fu_nc_na_me ^ ^ ^ ^ value Name id gettext_fu_nc_na_me ^ ^ ^ ^ ^ ^

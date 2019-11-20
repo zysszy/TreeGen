@@ -1,0 +1,1 @@
+root Assign targets Name id i_fu_nc_na_me ^ ^ ^ ^ value Call func Attribute value Name id open_tags_fu_nc_na_me ^ ^ ^ ^ attr index_fu_nc_na_me ^ ^ ^ ^ args Name id tagname_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

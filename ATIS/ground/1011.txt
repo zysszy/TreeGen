@@ -1,0 +1,1 @@
+root FunctionDef name now_fu_nc_na_me ^ ^ args arguments ^ ^ body Pass ^ ^ ^ ^

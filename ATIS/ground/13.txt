@@ -1,0 +1,1 @@
+root AugAssign target Name id piece_fu_nc_na_me ^ ^ ^ ^ value Subscript value Name id elt_fu_nc_na_me ^ ^ ^ ^ slice Index value Num n 0_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

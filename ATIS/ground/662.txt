@@ -1,0 +1,1 @@
+root Assign targets Name id truncate_len_fu_nc_na_me ^ ^ ^ ^ value Name id length_fu_nc_na_me ^ ^ ^ ^ ^ ^

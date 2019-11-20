@@ -1,0 +1,1 @@
+root Assign targets Name id sep_fu_nc_na_me ^ ^ ^ ^ value Call func Attribute value Name id kwargs_fu_nc_na_me ^ ^ ^ ^ attr pop_fu_nc_na_me ^ ^ ^ ^ args Str s gen_str ^ ^ ^ NameConstant ^ ^ ^ ^ ^ ^

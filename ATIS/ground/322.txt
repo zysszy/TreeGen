@@ -1,0 +1,1 @@
+root Assign targets Name id get_method_self_fu_nc_na_me ^ ^ ^ ^ value Call func Attribute value Name id operator_fu_nc_na_me ^ ^ ^ ^ attr attrgetter_fu_nc_na_me ^ ^ ^ ^ args Name id _meth_self_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

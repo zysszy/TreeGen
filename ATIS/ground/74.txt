@@ -1,0 +1,1 @@
+root Assign targets Name id decode_fu_nc_na_me ^ ^ ^ ^ value Call func Name id curry_fu_nc_na_me ^ ^ ^ ^ args Name id _proxy_method_fu_nc_na_me ^ ^ ^ ^ keywords keyword arg method_fu_nc_na_me ^ ^ value Attribute value Name id bytes_fu_nc_na_me ^ ^ ^ ^ attr decode_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

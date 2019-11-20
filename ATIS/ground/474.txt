@@ -1,0 +1,1 @@
+root Assign targets Name id buffer_types_fu_nc_na_me ^ ^ ^ ^ value Tuple elts Name id bytearray_fu_nc_na_me ^ ^ ^ Name id memoryview_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

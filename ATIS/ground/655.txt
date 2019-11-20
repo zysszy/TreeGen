@@ -1,0 +1,1 @@
+root Return value BinOp left Name id truncate_fu_nc_na_me ^ ^ ^ ^ right Dict keys Str s gen_str ^ ^ ^ ^ values Name id text_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

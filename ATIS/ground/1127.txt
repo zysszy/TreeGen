@@ -1,0 +1,1 @@
+root Return value Call func Attribute value Name id _trans_fu_nc_na_me ^ ^ ^ ^ attr get_language_from_request_fu_nc_na_me ^ ^ ^ ^ args Name id request_fu_nc_na_me ^ ^ ^ Name id check_path_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

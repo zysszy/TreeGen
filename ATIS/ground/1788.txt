@@ -1,0 +1,1 @@
+root Assign targets Name id timestamp_fu_nc_na_me ^ ^ ^ ^ value Subscript value Call func Attribute value Name id git_log_fu_nc_na_me ^ ^ ^ ^ attr communicate_fu_nc_na_me ^ ^ ^ ^ ^ ^ slice Index value Num n 0_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

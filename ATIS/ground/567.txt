@@ -1,0 +1,1 @@
+root Assign targets Name id text_fu_nc_na_me ^ ^ ^ ^ value BinOp left Str s gen_str ^ ^ ^ ^ right Tuple elts BoolOp values Name id text_fu_nc_na_me ^ ^ ^ Str s gen_str ^ ^ ^ ^ ^ Name id RESET_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

@@ -1,0 +1,1 @@
+root ClassDef name MovedModule_fu_nc_na_me ^ ^ bases Name id _LazyDescr_fu_nc_na_me ^ ^ ^ ^ body Pass ^ ^ ^ ^

@@ -1,0 +1,1 @@
+root If test Compare left Subscript value Attribute value Name id sys_fu_nc_na_me ^ ^ ^ ^ attr version_info_fu_nc_na_me ^ ^ ^ ^ slice Index value Num n 1_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ops LtE ^ ^ comparators Num n 1_fu_nc_na_me ^ ^ ^ ^ ^ ^ body Pass ^ ^ ^ ^

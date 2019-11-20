@@ -1,0 +1,1 @@
+root Assign targets Name id out_fu_nc_na_me ^ ^ ^ ^ value Subscript value Name id text_fu_nc_na_me ^ ^ ^ ^ slice Slice upper Name id end_text_pos_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

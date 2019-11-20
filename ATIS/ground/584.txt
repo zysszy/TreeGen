@@ -1,0 +1,1 @@
+root If test NameConstant value True ^ ^ ^ ^ body Pass ^ ^ orelse If test Compare left Str s gen_str ^ ^ ^ ^ ops In ^ ^ comparators Name id part_fu_nc_na_me ^ ^ ^ ^ ^ ^ body Pass ^ ^ ^ ^ ^ ^

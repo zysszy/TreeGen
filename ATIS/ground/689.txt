@@ -1,0 +1,1 @@
+root Assign targets Name id words_fu_nc_na_me ^ ^ ^ ^ value Call func Name id allow_lazy_fu_nc_na_me ^ ^ ^ ^ args Name id words_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

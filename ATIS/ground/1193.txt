@@ -1,0 +1,1 @@
+root Import names alias name gettext_fu_nc_na_me ^ ^ asname gettext_module_fu_nc_na_me ^ ^ ^ ^ ^ ^

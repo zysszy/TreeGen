@@ -1,0 +1,1 @@
+root If test NameConstant value True ^ ^ ^ ^ body Pass ^ ^ orelse If test Compare left Attribute value Name id t_fu_nc_na_me ^ ^ ^ ^ attr token_type_fu_nc_na_me ^ ^ ^ ^ ops Eq ^ ^ comparators Name id TOKEN_VAR_fu_nc_na_me ^ ^ ^ ^ ^ ^ body Pass ^ ^ ^ ^ ^ ^

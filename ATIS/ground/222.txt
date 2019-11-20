@@ -1,0 +1,1 @@
+root Expr value Call func Name id setattr_fu_nc_na_me ^ ^ ^ ^ args Name id Module_six_moves_urllib_parse_fu_nc_na_me ^ ^ ^ Attribute value Name id attr_fu_nc_na_me ^ ^ ^ ^ attr name_fu_nc_na_me ^ ^ ^ Name id attr_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

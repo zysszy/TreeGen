@@ -1,0 +1,1 @@
+root Expr value Call func Attribute value Name id six_fu_nc_na_me ^ ^ ^ ^ attr reraise_fu_nc_na_me ^ ^ ^ ^ args Name id exc_type_fu_nc_na_me ^ ^ ^ Name id exc_value_fu_nc_na_me ^ ^ ^ Subscript value Call func Attribute value Name id sys_fu_nc_na_me ^ ^ ^ ^ attr exc_info_fu_nc_na_me ^ ^ ^ ^ ^ ^ slice Index value Num n 2_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

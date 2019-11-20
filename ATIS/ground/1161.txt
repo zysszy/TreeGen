@@ -1,0 +1,1 @@
+root Return value Call func Name id force_text_fu_nc_na_me ^ ^ ^ ^ args Call func Name id ngettext_fu_nc_na_me ^ ^ ^ ^ args Name id singular_fu_nc_na_me ^ ^ ^ Name id plural_fu_nc_na_me ^ ^ ^ Name id number_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

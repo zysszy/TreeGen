@@ -1,0 +1,1 @@
+root If test BoolOp values Compare left Name id role_fu_nc_na_me ^ ^ ^ ^ ops In ^ ^ comparators Subscript value Name id PALETTES_fu_nc_na_me ^ ^ ^ ^ slice Index value Name id NOCOLOR_PALETTE_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ Name id definition_fu_nc_na_me ^ ^ ^ ^ ^ ^ body Pass ^ ^ ^ ^

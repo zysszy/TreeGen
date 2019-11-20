@@ -1,0 +1,1 @@
+root FunctionDef name pgettext_fu_nc_na_me ^ ^ args arg arg context_fu_nc_na_me ^ ^ ^ arg arg message_fu_nc_na_me ^ ^ ^ ^ body Pass ^ ^ ^ ^

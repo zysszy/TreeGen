@@ -1,0 +1,1 @@
+root Assign targets Name id c_fu_nc_na_me ^ ^ ^ ^ value Call func Name id int_fu_nc_na_me ^ ^ ^ ^ args Name id text_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

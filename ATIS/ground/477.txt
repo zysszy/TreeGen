@@ -1,0 +1,1 @@
+root FunctionDef name assertRaisesRegex_fu_nc_na_me ^ ^ args arg arg self_fu_nc_na_me ^ ^ ^ vararg arg arg args_fu_nc_na_me ^ ^ ^ ^ kwarg arg arg kwargs_fu_nc_na_me ^ ^ ^ ^ ^ body Pass ^ ^ ^ ^

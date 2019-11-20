@@ -1,0 +1,1 @@
+root If test Compare left Attribute value Name id self_fu_nc_na_me ^ ^ ^ ^ attr __language_fu_nc_na_me ^ ^ ^ ^ ops Eq ^ ^ comparators Attribute value Name id settings_fu_nc_na_me ^ ^ ^ ^ attr LANGUAGE_CODE_fu_nc_na_me ^ ^ ^ ^ ^ ^ body Pass ^ ^ ^ ^

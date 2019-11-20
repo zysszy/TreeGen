@@ -1,0 +1,1 @@
+root If test Call func Name id isinstance_fu_nc_na_me ^ ^ ^ ^ args Name id s_fu_nc_na_me ^ ^ ^ Tuple elts Name id SafeData_fu_nc_na_me ^ ^ ^ Name id EscapeData_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ body Pass ^ ^ ^ ^

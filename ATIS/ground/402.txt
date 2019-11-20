@@ -1,0 +1,1 @@
+root Assign targets Name id want_unicode_fu_nc_na_me ^ ^ ^ ^ value NameConstant value False ^ ^ ^ ^ ^ ^

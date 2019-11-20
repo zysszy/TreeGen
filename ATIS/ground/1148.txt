@@ -1,0 +1,1 @@
+root Raise exc Call func Name id KeyError_fu_nc_na_me ^ ^ ^ ^ args BinOp left Str s gen_str ^ ^ ^ ^ right Tuple elts Name id lang_code_fu_nc_na_me ^ ^ ^ Name id generic_lang_code_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

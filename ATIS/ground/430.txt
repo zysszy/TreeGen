@@ -1,0 +1,1 @@
+root If test Compare left Name id end_fu_nc_na_me ^ ^ ^ ^ ops Is ^ ^ comparators NameConstant ^ ^ ^ ^ body Pass ^ ^ ^ ^

@@ -1,0 +1,1 @@
+root Expr value Call func Attribute value Name id palette_fu_nc_na_me ^ ^ ^ ^ attr update_fu_nc_na_me ^ ^ ^ ^ args Subscript value Name id PALETTES_fu_nc_na_me ^ ^ ^ ^ slice Index value Name id part_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

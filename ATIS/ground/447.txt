@@ -1,0 +1,1 @@
+root FunctionDef name add_metaclass_fu_nc_na_me ^ ^ args arg arg metaclass_fu_nc_na_me ^ ^ ^ ^ body Pass ^ ^ ^ ^

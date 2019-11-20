@@ -1,0 +1,1 @@
+root Return value Call func Name id ugettext_fu_nc_na_me ^ ^ ^ ^ args Name id message_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

@@ -1,0 +1,1 @@
+root Return value Call func Attribute value Call func Attribute value Name id datetime_fu_nc_na_me ^ ^ ^ ^ attr utcnow_fu_nc_na_me ^ ^ ^ ^ ^ ^ attr replace_fu_nc_na_me ^ ^ ^ ^ keywords keyword arg tzinfo_fu_nc_na_me ^ ^ value Name id utc_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

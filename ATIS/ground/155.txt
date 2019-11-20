@@ -1,0 +1,1 @@
+root Raise exc Call func Name id AttributeError_fu_nc_na_me ^ ^ ^ ^ args BinOp left Str s gen_str ^ ^ ^ ^ right Attribute value Name id self_fu_nc_na_me ^ ^ ^ ^ attr name_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

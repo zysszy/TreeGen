@@ -1,0 +1,1 @@
+root FunctionDef name print__fu_nc_na_me ^ ^ args arguments vararg arg arg args_fu_nc_na_me ^ ^ ^ ^ kwarg arg arg kwargs_fu_nc_na_me ^ ^ ^ ^ ^ ^ body Pass ^ ^ ^ ^

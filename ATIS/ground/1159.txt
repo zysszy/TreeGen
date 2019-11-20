@@ -1,0 +1,1 @@
+root Assign targets Name id ngettext_lazy_fu_nc_na_me ^ ^ ^ ^ value Name id ngettext_fu_nc_na_me ^ ^ ^ ^ ^ ^

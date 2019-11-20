@@ -1,0 +1,1 @@
+root Assign targets Name id is_dst_fu_nc_na_me ^ ^ ^ ^ value IfExp test Compare left Name id dt_fu_nc_na_me ^ ^ ^ ^ ops Is ^ ^ comparators NameConstant ^ ^ ^ ^ body NameConstant value False ^ ^ ^ ^ orelse Call func Attribute value Name id self_fu_nc_na_me ^ ^ ^ ^ attr _isdst_fu_nc_na_me ^ ^ ^ ^ args Name id dt_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ ^ ^

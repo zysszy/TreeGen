@@ -1,0 +1,1 @@
+root If test Call func Attribute value Attribute value Name id sys_fu_nc_na_me ^ ^ ^ ^ attr platform_fu_nc_na_me ^ ^ ^ ^ attr startswith_fu_nc_na_me ^ ^ ^ ^ args Str s gen_str ^ ^ ^ ^ ^ ^ body Pass ^ ^ ^ ^

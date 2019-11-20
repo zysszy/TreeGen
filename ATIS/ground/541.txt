@@ -1,0 +1,1 @@
+root FunctionDef name dummy_fu_nc_na_me ^ ^ args arguments ^ ^ body Pass ^ ^ decorator_list Attribute value Name id contextlib_fu_nc_na_me ^ ^ ^ ^ attr contextmanager_fu_nc_na_me ^ ^ ^ ^ ^ ^

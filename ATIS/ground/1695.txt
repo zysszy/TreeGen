@@ -1,0 +1,1 @@
+root If test Call func Name id isinstance_fu_nc_na_me ^ ^ ^ ^ args Name id offset_fu_nc_na_me ^ ^ ^ Name id timedelta_fu_nc_na_me ^ ^ ^ ^ ^ ^ body Pass ^ ^ ^ ^

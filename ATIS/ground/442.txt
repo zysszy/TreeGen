@@ -1,0 +1,1 @@
+root FunctionDef name __new___fu_nc_na_me ^ ^ args arg arg cls_fu_nc_na_me ^ ^ ^ arg arg name_fu_nc_na_me ^ ^ ^ arg arg this_bases_fu_nc_na_me ^ ^ ^ arg arg d_fu_nc_na_me ^ ^ ^ ^ body Pass ^ ^ ^ ^

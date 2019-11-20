@@ -1,0 +1,1 @@
+root FunctionDef name smart_split_fu_nc_na_me ^ ^ args arg arg text_fu_nc_na_me ^ ^ ^ ^ body Pass ^ ^ ^ ^

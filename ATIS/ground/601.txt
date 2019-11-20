@@ -1,0 +1,1 @@
+root Assign targets Subscript value Name id palette_fu_nc_na_me ^ ^ ^ ^ slice Index value Name id role_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^ value Name id definition_fu_nc_na_me ^ ^ ^ ^ ^ ^

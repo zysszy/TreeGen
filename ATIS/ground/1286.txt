@@ -1,0 +1,1 @@
+root Assign targets Name id default_translation_fu_nc_na_me ^ ^ ^ ^ value Call func Name id translation_fu_nc_na_me ^ ^ ^ ^ args Attribute value Name id settings_fu_nc_na_me ^ ^ ^ ^ attr LANGUAGE_CODE_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

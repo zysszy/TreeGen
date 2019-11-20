@@ -1,0 +1,1 @@
+root Expr value Call func Name id setattr_fu_nc_na_me ^ ^ ^ ^ args Name id _MovedItems_fu_nc_na_me ^ ^ ^ Attribute value Name id move_fu_nc_na_me ^ ^ ^ ^ attr name_fu_nc_na_me ^ ^ ^ Name id move_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

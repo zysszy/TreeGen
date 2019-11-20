@@ -1,0 +1,1 @@
+root If test Compare left Call func Name id len_fu_nc_na_me ^ ^ ^ ^ args Name id words_fu_nc_na_me ^ ^ ^ ^ ^ ^ ops Gt ^ ^ comparators Name id length_fu_nc_na_me ^ ^ ^ ^ ^ ^ body Pass ^ ^ ^ ^

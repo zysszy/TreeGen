@@ -1,0 +1,1 @@
+root Assign targets Attribute value Name id obj_fu_nc_na_me ^ ^ ^ ^ attr __class___fu_nc_na_me ^ ^ ^ ^ value Name id cls_fu_nc_na_me ^ ^ ^ ^ ^ ^

@@ -1,0 +1,1 @@
+root Return value Call func Attribute value Name id self_fu_nc_na_me ^ ^ ^ ^ attr _text_chars_fu_nc_na_me ^ ^ ^ ^ args Name id length_fu_nc_na_me ^ ^ ^ Name id truncate_fu_nc_na_me ^ ^ ^ Name id text_fu_nc_na_me ^ ^ ^ Name id truncate_len_fu_nc_na_me ^ ^ ^ ^ ^ ^ ^ ^

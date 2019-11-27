@@ -1,4 +1,7 @@
 # TreeGen
+Our paper is available at https://arxiv.org/abs/1911.09983.
+
+This repository is not a complete one, and we will complete it soon. 
 ## Usage
 ### To train new model
 ```

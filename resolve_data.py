@@ -40,12 +40,10 @@ trainset.append([]) # test for trainset[2]
 is_train = False
 
 
-nl_len = 150
+nl_len = 200
 tree_len = 500
-rulesnum = 184
-classnum = rulesnum + nl_len
 parent_len = 20
-rulelist_len = 150
+rules_len = rulelist_len = 200
 char_len = 10
 function_len = 1
 nl_voc_ground = {}
@@ -71,6 +69,8 @@ def readrules():
         Rule.append(l)
 
 readrules()
+rulesnum = len(Rule)
+classnum = rulesnum + nl_len
 
 def readvoc ():
     global comment_vocabulary
@@ -89,10 +89,14 @@ def readvoc ():
 
     f = open(project + "char_voc.txt", "r")
     lines = f.readlines()
-    for line in lines:
-        words = line.strip().split()
-        if int(words[1]) >= 10:
-            char_vocabulary[words[0]] = len(char_vocabulary)
+    try:
+        char_vocabulary = eval(lines[0])
+    except:
+        #lines = f.readlines()
+        for line in lines:
+            words = line.strip().split()
+            if int(words[1]) >= 10:
+                char_vocabulary[words[0]] = len(char_vocabulary)
     f.close()
 
     f = open(project + "nl_voc.txt", "r")
@@ -563,5 +567,5 @@ def resolve_data():
 
 if sys.argv[0] == "run.py":
     resolve_data()
-elif sys.argv[0] == "predict.py":
+elif "predict" in sys.argv[0]:
     readvoc()

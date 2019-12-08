@@ -1,11 +1,11 @@
-root Lambda variable $0 ^ ^ type e ^ ^ body And arguments Apply predicate flight ^ ^ arguments Variable variable $0 ^ ^ ^ End ^ ^ ^ Apply predicate airline ^ ^ arguments Variable variable $0 ^ ^ ^ Entity entity al0 ^ ^ ^ End ^ ^ ^ Apply predicate from ^ ^ arguments Variable variable $0 ^ ^ ^ Entity entity ^ ^ End ^ ^ ^ End ^ ^ ^ ^ ^ ^
-entity
-Entity
-entity Entity arguments Apply arguments And body Lambda root
-root Lambda variable $0 ^ ^ type e ^ ^ body And arguments Apply predicate flight ^ ^ arguments Variable variable $0 ^ ^ ^ ^ ^ Apply predicate airline ^ ^ arguments Variable variable $0 ^ ^ ^ Entity entity al0 ^ ^ ^ ^ ^ Apply predicate from ^ ^ arguments Variable variable $0 ^ ^ ^ Entity entity node_gen ^ ^ ^ ^ ^ ^ ^ ^ ^ ^
-root Lambda variable $0 ^ ^ type e ^ ^ body And arguments Apply predicate flight ^ ^ arguments Variable variable $0 ^ ^ ^ ^ ^ Apply predicate airline ^ ^ arguments Variable variable $0 ^ ^ ^ Entity entity al0 ^ ^ ^ ^ ^ Apply predicate from ^ ^ arguments Variable variable $0 ^ ^ ^ Entity entity node_gen ^ ^ ^ ^ ^ ^ ^ ^ ^ ^
+root Lambda variable $0 ^ ^ type e ^ ^ body Exists variable $1 ^ ^ body And arguments Apply predicate airline ^ ^ arguments Variable variable $1 ^ ^ ^ End ^ ^ ^ Apply predicate airline ^ ^ arguments Variable variable $1 ^ ^ ^ Entity entity al0 ^ ^ ^ End ^ ^ ^ Apply predicate from ^ ^ arguments Entity ^ ^ ^ Compare ^ Compare ^ End ^ ^ ^ ^ ^ ^ ^ ^
+arguments
+Apply
+arguments Apply arguments And body Exists body Lambda root
+root Lambda variable $0 ^ ^ type e ^ ^ body Exists variable $1 ^ ^ body And arguments Apply predicate airline ^ ^ arguments Variable variable $1 ^ ^ ^ ^ ^ Apply predicate airline ^ ^ arguments Variable variable $1 ^ ^ ^ Entity entity al0 ^ ^ ^ ^ ^ Apply predicate from ^ ^ arguments Entity ^ node_gen ^ ^ ^ Compare ^ Compare ^ ^ ^ ^ ^ ^ ^ ^
+root Lambda variable $0 ^ ^ type e ^ ^ body Exists variable $1 ^ ^ body And arguments Apply predicate airline ^ ^ arguments Variable variable $1 ^ ^ ^ ^ ^ Apply predicate airline ^ ^ arguments Variable variable $1 ^ ^ ^ Entity entity al0 ^ ^ ^ ^ ^ Apply predicate from ^ ^ arguments Entity ^ node_gen ^ ^ ^ Compare ^ Compare ^ ^ ^ ^ ^ ^ ^ ^
 1
 1
-root Lambda variable $0 ^ ^ type e ^ ^ body And arguments Apply predicate flight ^ ^ arguments Variable variable $0 ^ ^ ^ ^ ^ Apply predicate airline ^ ^ arguments Variable variable $0 ^ ^ ^ Entity entity al0 ^ ^ ^ ^ ^ Apply predicate from ^ ^ arguments Variable variable $0 ^ ^ ^ Entity entity node_gen ^ ^ ^ ^ ^ ^ ^ ^ ^ ^
+root Lambda variable $0 ^ ^ type e ^ ^ body Exists variable $1 ^ ^ body And arguments Apply predicate airline ^ ^ arguments Variable variable $1 ^ ^ ^ ^ ^ Apply predicate airline ^ ^ arguments Variable variable $1 ^ ^ ^ Entity entity al0 ^ ^ ^ ^ ^ Apply predicate from ^ ^ arguments Entity ^ node_gen ^ ^ ^ Compare ^ Compare ^ ^ ^ ^ ^ ^ ^ ^
 1
-28
+30

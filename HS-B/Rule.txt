@@ -1,0 +1,854 @@
+ root true Module
+ Module true body
+ body true ClassDef
+ ClassDef true name bases body
+ bases true Name
+ Name true id
+ body true FunctionDef FunctionDef
+ FunctionDef true name args body
+ name true __init__
+ args true Name
+ id true self
+ body true Expr
+ Expr true value
+ value true Call
+ Call true func args keywords
+ func true Attribute
+ Attribute true value attr
+ func true Name
+ id true super
+ args true End
+ keywords true End
+ attr true __init__
+ args true Str Num Attribute Attribute
+ Str true s
+ value true Name
+ id true CHARACTER_CLASS
+ attr true ALL
+ id true CARD_RARITY
+ keywords true keyword
+ keyword true arg value
+ id true Battlecry
+ args true Call Call
+ id true Destroy
+ id true WeaponSelector
+ args true Call
+ id true EnemyPlayer
+ name true create_minion
+ args true Name Name
+ id true player
+ body true Return
+ Return true value
+ args true Num Num
+ arg true target_func
+ value true Attribute
+ id true hearthbreaker
+ attr true targeting
+ attr true find_minion_spell_target
+ name true use
+ args true Name Name Name
+ id true game
+ body true Expr Expr Assign
+ attr true use
+ attr true target
+ attr true heal
+ args true Call Name
+ attr true effective_heal_power
+ attr true calculate_max_health
+ Assign true targets value
+ targets true Attribute
+ id true True
+ body true FunctionDef FunctionDef FunctionDef
+ body true Expr Assign Assign Expr
+ targets true Name
+ id true beast_list
+ value true List
+ List true elts
+ elts true Call Call Call
+ attr true cards
+ attr true minions
+ attr true hunter
+ attr true Huffer
+ attr true Misha
+ attr true Leokk
+ id true card
+ attr true random_choice
+ args true Name Attribute Call
+ attr true game
+ id true len
+ args true Attribute
+ name true can_use
+ value true BoolOp
+ BoolOp true op values
+ op true And
+ values true Call Compare
+ attr true can_use
+ Compare true left ops comparators
+ left true Call
+ ops true Lt
+ comparators true Num
+ Num true 7
+ body true Expr For
+ For true target iter body orelse
+ target true Name
+ id true minion
+ iter true Call
+ id true copy
+ attr true copy
+ attr true other_player
+ attr true effective_spell_damage
+ args true Num
+ orelse true End
+ id true c
+ id true range
+ Num true 0
+ id true i
+ args true Num Call
+ body true Assign Expr Assign Expr
+ id true targets
+ attr true append
+ attr true hero
+ id true target
+ args true Num Name
+ attr true find_spell_target
+ body true Expr Expr
+ name true create_weapon
+ attr true find_enemy_minion_spell_target
+ attr true die
+ keywords true keyword keyword
+ arg true filter_func
+ value true Lambda
+ Lambda true args body
+ body true BoolOp
+ values true Compare Call
+ left true Attribute
+ attr true health
+ ops true Eq
+ comparators true Call
+ attr true spell_targetable
+ body true Expr Expr Expr
+ attr true change_attack
+ attr true increase_health
+ arg true minion_type
+ id true MINION_TYPE
+ iter true Attribute
+ attr true change_temp_attack
+ args true Str Num Attribute Attribute Name
+ id true False
+ attr true find_friendly_minion_spell_target
+ attr true add_buff
+ id true Buff
+ id true _Charge
+ attr true increase_armor
+ body true Expr Assign For
+ body true Assign Expr Expr
+ attr true remove
+ ops true GtE
+ body true Expr For Expr
+ attr true add_effect
+ id true Effect
+ id true TurnStarted
+ arg true player
+ id true ActionTag
+ id true Kill
+ id true SelfSelector
+ value true Num
+ id true Summon
+ id true MechanicalDragonling
+ id true PlayerSelector
+ id true Damage
+ id true CharacterSelector
+ arg true players
+ id true BothPlayer
+ arg true picker
+ id true UserPicker
+ attr true COMMON
+ ops true NotEq
+ arg true auras
+ elts true Call
+ id true Aura
+ id true ChangeAttack
+ id true MinionSelector
+ id true Adjacent
+ id true p
+ id true Frozen
+ attr true find_enemy_spell_target
+ id true IsType
+ id true Heal
+ id true HeroSelector
+ arg true effects
+ id true CharacterDamaged
+ arg true condition
+ id true MinionIsTarget
+ id true Give
+ body true Expr Assign
+ args true Str Num Attribute Attribute Name Attribute
+ id true TurnEnded
+ id true None
+ body true Expr Assign Assign Assign Expr
+ attr true neutral
+ attr true Frog
+ attr true create_minion
+ attr true card
+ attr true replace
+ body true Expr For For
+ attr true NONE
+ args true List
+ id true ChangeHealth
+ id true Taunt
+ attr true BEAST
+ args true BinOp
+ BinOp true left op right
+ left true Num
+ op true Sub
+ right true Call
+ attr true calculate_attack
+ attr true set_health_to
+ body true Expr Assign If
+ id true beasts
+ attr true find_friendly_minion_battlecry_target
+ args true Attribute Lambda
+ id true x
+ body true Compare
+ attr true minion_type
+ ops true Is
+ comparators true Attribute
+ If true test body orelse
+ test true Compare
+ left true Name
+ comparators true Name
+ orelse true Expr
+ body true Expr Assign Expr Expr
+ id true new_minion
+ attr true remove_from_board
+ attr true add_to_board
+ body true Expr If
+ ops true Gt
+ body true Assign Expr Assign
+ attr true deepcopy
+ attr true player
+ id true MirrorImageMinion
+ attr true summon
+ args true Name Name Call
+ Num true 2
+ id true MurlocScout
+ id true CharacterHealed
+ id true IsMinion
+ id true Draw
+ id true Boar
+ attr true find_friendly_spell_target
+ id true character
+ attr true DEMON
+ attr true bounce
+ ops true LtE
+ elts true Call Call
+ id true MinionPlaced
+ body true Expr Expr For If
+ body true If
+ ops true IsNot
+ attr true TOTEM
+ body true Expr Assign For If
+ elts true End
+ id true card_index
+ Num true 3
+ test true Call
+ attr true can_draw
+ id true chosen_card
+ attr true agent
+ attr true choose_option
+ attr true hand
+ value true Subscript
+ Subscript true value slice
+ slice true Index
+ Index true value
+ Num true -1
+ attr true trigger
+ args true Str Name
+ s true copy_str
+ id true CharacterAttack
+ id true IsHero
+ id true Charge
+ body true Expr Assign Expr For
+ attr true extend
+ id true sorted
+ arg true key
+ id true m
+ body true Attribute
+ attr true born
+ id true AttackLessThanOrEqualTo
+ id true TargetSelector
+ id true DidDamage
+ attr true current_player
+ iter true Name
+ attr true max_mana
+ Num true 10
+ body true AugAssign
+ AugAssign true target op value
+ target true Attribute
+ op true Add
+ Num true 1
+ orelse true Expr Assign
+ id true ExcessMana
+ id true _Windfury
+ id true Windfury
+ args true Call Call Call
+ id true GreaterThan
+ id true Count
+ id true CardSelector
+ attr true DRAGON
+ arg true value
+ id true Deathrattle
+ id true Bounce
+ id true Nerubian
+ right true Attribute
+ id true Joust
+ id true IncreaseDurability
+ arg true buffs
+ id true CantAttack
+ id true UsedPower
+ id true BuffUntil
+ id true CanAttack
+ attr true FREE
+ attr true RARE
+ values true Call BoolOp
+ op true Or
+ values true Compare Compare
+ attr true opponent
+ attr true players
+ body true Assign If
+ id true minions
+ value true ListComp
+ ListComp true elt generators
+ elt true Name
+ generators true comprehension
+ comprehension true target iter ifs
+ ifs true Call
+ attr true is_minion
+ test true BoolOp
+ body true Assign Expr Expr Expr
+ id true minion_card
+ attr true unattach
+ id true MinionCountIs
+ arg true spell_targetable
+ id true Equip
+ id true CardQuery
+ arg true conditions
+ id true IsWeapon
+ id true MinionDied
+ args true Name Call Call
+ id true RandomPicker
+ id true RandomAmount
+ Num true 4
+ left true BinOp
+ value true BinOp
+ left true Subscript
+ slice true Slice
+ Slice true lower upper step
+ lower true None
+ upper true None
+ step true None
+ right true Subscript
+ body true For
+ id true bounces
+ Num true 80
+ body true Assign Expr If
+ test true Attribute
+ attr true dead
+ body true Break
+ body true FunctionDef Expr Expr Expr
+ name true reduce_cost
+ id true ManaChange
+ Num true -4
+ attr true bind_once
+ id true reduce_cost
+ args true Call Num
+ body true ImportFrom Return
+ ImportFrom true module names level
+ module true hearthbreaker.cards.spells.neutral
+ names true alias
+ alias true name asname
+ name true spare_part_list
+ asname true None
+ level true 0
+ id true AddCard
+ arg true source
+ id true CARD_SOURCE
+ attr true LIST
+ arg true source_list
+ id true spare_part_list
+ id true MinionSummoned
+ id true DivineShield
+ attr true MECH
+ id true IsDamaged
+ args true Name Lambda
+ id true t
+ body true Call
+ body true Expr ClassDef ClassDef If Expr
+ name true Buff5
+ id true ChoiceCard
+ value true Compare
+ body true Assign Assign Expr Expr Assign
+ attr true choose_target
+ name true Wisps5
+ body true ImportFrom For
+ module true hearthbreaker.cards.minions.neutral
+ name true Wisp
+ body true Assign Expr
+ id true wisp
+ id true Wisp
+ body true Assign
+ id true option
+ id true Wisps5
+ orelse true Assign
+ args true List Name
+ id true Buff5
+ ops true In
+ id true BoomBot
+ arg true battlecry
+ id true Transform
+ id true CobraForm
+ id true Attack
+ id true ChangeTarget
+ id true NotCurrentTarget
+ id true And
+ id true OneIn
+ id true OpponentMinionCountIsGreaterThan
+ args true List Call
+ arg true taunt
+ body true For If
+ id true deathrattle
+ attr true deathrattle
+ attr true do
+ attr true double_deathrattle
+ id true Not
+ args true Attribute Name
+ id true CardPlayed
+ id true Discard
+ arg true query
+ attr true MY_DECK
+ id true Stealth
+ id true Drawn
+ args true Name Call
+ attr true find_enemy_minion_battlecry_target
+ body true Name
+ id true Attribute
+ args true Str Call
+ id true TargetAdjacent
+ id true Damaged
+ id true DoubleAttack
+ id true SpellCast
+ id true ManaCost
+ Num true 5
+ arg true choices
+ id true Choice
+ id true GiftOfMana
+ id true GiveManaCrystal
+ id true GiftOfCards
+ id true BaseAttackEqualTo
+ id true HasSecret
+ body true Expr Assign Assign Expr If
+ id true amount
+ attr true random_amount
+ id true had_shield
+ attr true divine_shield
+ test true UnaryOp
+ UnaryOp true op operand
+ op true Not
+ operand true Name
+ id true Difference
+ id true CurrentPlayer
+ id true ApplySecret
+ attr true ENEMY_SECRETS
+ body true Expr Expr Assign If
+ id true Lightwarden
+ orelse true If
+ id true MinionHasDeathrattle
+ attr true MINION
+ arg true minion
+ arg true add_to_deck
+ id true Remove
+ id true LeperGnome
+ args true Call List
+ id true V07TR0N
+ body true Expr For Assign Assign Assign Expr
+ id true dude
+ id true SilverHandRecruit
+ id true justice
+ id true LightsJustice
+ id true hammer
+ attr true create_weapon
+ body true ImportFrom Assign Expr
+ names true alias alias alias alias alias alias alias alias alias alias
+ name true BluegillWarrior
+ name true ColdlightSeer
+ name true GrimscaleOracle
+ name true MurlocRaider
+ name true MurlocTidecaller
+ name true MurlocTidehunter
+ name true MurlocWarleader
+ name true OldMurkEye
+ name true Puddlestomper
+ id true murloc_list
+ elts true Call Call Call Call Call Call Call Call Call Call Call
+ id true BluegillWarrior
+ id true ColdlightOracle
+ id true ColdlightSeer
+ id true GrimscaleOracle
+ id true MurlocRaider
+ id true MurlocTidecaller
+ id true MurlocTidehunter
+ id true MurlocWarleader
+ id true OldMurkEye
+ id true Puddlestomper
+ id true SiltfinSpiritwalker
+ id true HasCardName
+ args true Str
+ attr true put_back
+ body true Expr Assign Assign If
+ id true temp_attack
+ id true temp_health
+ orelse true Expr Expr
+ attr true set_attack_to
+ body true Expr Assign Assign Expr Expr If
+ attr true check_delayed
+ attr true cards_played
+ keywords true keyword keyword keyword
+ id true IncreaseArmor
+ attr true PIRATE
+ Num true -2
+ id true ArmorIncreased
+ id true PowerTargetsMinions
+ body true Expr AugAssign Expr If
+ attr true base_attack
+ attr true LAST_CARD
+ id true FriendlyPlayer
+ id true GallywixsCoin
+ body true Expr Assign Expr Expr Expr For
+ id true BurlyRockjawTrogg
+ body true Expr Assign Assign Expr Expr
+ id true query
+ id true new_minon
+ attr true get_card
+ Num true -3
+ id true MegaWindfury
+ body true Expr Expr Expr Expr
+ id true SpellDamage
+ id true NoSpellTarget
+ body true FunctionDef FunctionDef FunctionDef FunctionDef
+ name true _reveal
+ id true dead_minion
+ id true attacker
+ args true ListComp
+ ifs true UnaryOp
+ operand true Attribute
+ attr true reveal
+ name true activate
+ attr true bind
+ args true Str Attribute
+ attr true _reveal
+ name true deactivate
+ attr true unbind
+ id true DoubleDeathrattle
+ id true by
+ body true For Expr
+ id true new_card
+ func true Call
+ id true type
+ attr true attach
+ args true Name Attribute
+ id true GiveEffect
+ id true Duplicate
+ arg true deathrattle
+ id true Thaddius
+ id true InGraveyard
+ id true Stalagg
+ id true SpectralSpider
+ id true ResurrectFriendly
+ id true GiveAura
+ id true AuraUntil
+ id true IsSpell
+ body true Expr ImportFrom Assign For Expr For
+ module true hearthbreaker.cards.minions.druid
+ name true PoisonSeedsTreant
+ id true PoisonSeedsTreant
+ args true Attribute Attribute Call
+ args true Attribute Name Call
+ id true Feugen
+ Num true 10000
+ id true _
+ keywords true keyword keyword keyword keyword
+ id true SwapWithHand
+ id true SetAttack
+ id true AncientSecrets
+ id true AncientTeachings
+ id true Health
+ id true BattleAxe
+ body true Assign Return
+ id true weapon
+ id true HealAsDamage
+ values true Compare BoolOp
+ values true Call UnaryOp
+ id true isinstance
+ id true Minion
+ body true Expr Assign Expr
+ id true demons
+ body true FunctionDef Expr Assign Expr Assign For
+ name true damaged_character
+ id true characters
+ id true damaged_character
+ id true Immune
+ body true Expr Assign Assign Assign If If Assign Assign If If Assign
+ id true left_minion
+ id true right_minion
+ id true index
+ attr true index
+ right true Num
+ id true min
+ args true BinOp Num
+ Num true 6
+ id true original_immune
+ attr true immune
+ args true Call Attribute
+ id true AttackGreaterThan
+ body true Expr If Expr
+ comparators true Subscript
+ id true draw_player
+ id true PlayerOne
+ id true PlayerTwo
+ value true Tuple
+ Tuple true elts
+ id true HasDivineShield
+ id true RemoveDivineShields
+ id true DecreaseDurability
+ id true BaineBloodhoof
+ id true IncreaseWeaponAttack
+ id true IncreaseStats
+ id true SummonTreants
+ id true TauntTreant
+ attr true add_aura
+ id true MinimumHealth
+ body true FunctionDef FunctionDef FunctionDef FunctionDef FunctionDef
+ attr true is_spell
+ attr true cancel
+ id true SwapStats
+ args true Str Str Name
+ arg true amount
+ id true DefiasBandit
+ attr true damage
+ id true difference
+ id true CatForm
+ id true CatDruid
+ id true BearForm
+ id true BearDruid
+ id true SecretRevealed
+ body true Expr Assign If Expr If
+ comparators true BinOp
+ id true Replace
+ id true DestroyManaCrystal
+ id true spirit_wolf
+ attr true shaman
+ attr true SpiritWolf
+ body true Expr ImportFrom For
+ name true ChargeTreant
+ iter true List
+ elts true Num Num Num
+ id true treant_card
+ id true ChargeTreant
+ attr true removed
+ id true AttackCompleted
+ id true DamagedGolem
+ body true Expr Expr If
+ id true Gnoll
+ attr true MURLOC
+ values true Compare UnaryOp
+ body true AugAssign Expr
+ args true Name Name Name Name
+ attr true is_hero
+ right true Name
+ id true FlameOfAzzinoth
+ id true delta
+ id true Silence
+ id true Moonfire
+ id true Dispel
+ id true Bananas
+ body true Expr Expr Expr Expr Expr
+ id true Whelp
+ id true AttackEqualsHealth
+ id true ReplaceHeroWithMinion
+ id true BloodFury
+ id true OtherPlayer
+ body true ClassDef ClassDef Expr Assign Assign Expr
+ name true MarkOfNatureAttack
+ name true MarkOfNatureHealth
+ id true MarkOfNatureAttack
+ id true MarkOfNatureHealth
+ Num true -100
+ id true Steal
+ body true Expr Assign If Assign Expr
+ attr true random_draw
+ values true UnaryOp Call
+ attr true drawn
+ id true MinionCard
+ id true ShadowOfNothing
+ args true Name Name Num
+ body true Assign Expr Expr Expr Expr
+ id true mirror
+ attr true draw
+ args true Num Num Attribute
+ id true MultiplySpellDamage
+ id true MultiplyHealAmount
+ id true Hyena
+ id true IsSecret
+ id true demon_card
+ values true UnaryOp Call Compare
+ test true Name
+ body true Assign AugAssign If
+ attr true left
+ attr true warlock
+ attr true WorthlessImp
+ id true shadowflame_damage
+ attr true powers
+ attr true MindShatter
+ attr true MindSpike
+ body true Assign Assign
+ id true Squire
+ body true Assign Assign For Expr
+ id true snake
+ name true Treant
+ id true Treant
+ values true Call Compare Attribute Call
+ id true SpellbenderMinion
+ id true DamageAll
+ id true DamageOne
+ id true FinkleEinhorn
+ id true HasStatus
+ body true UnaryOp
+ body true Assign Assign If
+ id true Ashbringer
+ id true HasOverload
+ attr true Hound
+ values true Call Compare Compare
+ id true VioletApprentice
+ id true CardUsed
+ body true ClassDef ClassDef Expr Assign Assign Assign Expr
+ name true WrathOne
+ id true wrath
+ name true WrathThree
+ id true WrathOne
+ id true WrathThree
+ id true dream_card_list
+ elts true Call Call Call Call Call
+ id true EmeraldDrake
+ id true LaughingSister
+ id true Nightmare
+ id true YseraAwakens
+ id true Dream
+ body true Expr Assign Expr Expr Expr Assign For
+ id true filter
+ args true Lambda Name
+ values true UnaryOp Compare
+ operand true Call
+ attr true name
+ comparators true Str
+ id true CardDrawn
+ attr true LAST_DRAWN
+ arg true make_copy
+ args true Call Call Call Name
+ id true BlackWhelp
+ id true DeadMinionSelector
+ id true FlameCatForm
+ id true FlameCat
+ id true FlameBirdForm
+ id true FlameBird
+ id true GrimPatron
+ body true Expr Expr Assign AugAssign Assign
+ attr true upcoming_overload
+ attr true current_overload
+ id true Ragnaros
+ id true IsClass
+ id true MinionIsNotTarget
+ id true IsRarity
+ body true ImportFrom Expr If
+ module true hearthbreaker.engine
+ name true card_lookup
+ attr true graveyard
+ body true Assign Assign Expr
+ id true card_name
+ id true card_lookup
+ body true Expr Assign Expr If
+ orelse true For
+ Num true 8
+ body true Expr ImportFrom Assign Assign Assign Expr
+ module true hearthbreaker.cards.minions.mage
+ name true Sheep
+ id true Sheep
+ body true Expr For Assign Assign Assign
+ id true OwnersTurn
+ id true GnomishChicken
+ id true LastDrawnSelector
+ id true Matches
+ id true BurrowingMine
+ body true ImportFrom Expr
+ id true Slime
+ attr true MY_HAND
+ id true SetHealth
+ body true Assign Expr For Expr
+ id true attack_power
+ body true Assign For
+ id true survivor
+ id true Hero
+ body true Assign Assign Expr For Expr Expr
+ id true enemy
+ id true fatigue
+ attr true deck
+ attr true mana
+ body true Assign Assign Expr Expr Expr Expr Assign Expr
+ id true possibilities
+ attr true current_target
+ body true ImportFrom Assign Expr Assign Expr
+ module true hearthbreaker.cards.minions.paladin
+ name true DefenderMinion
+ id true DefenderMinion
+ id true LeaderOfThePack
+ id true SummonPanther
+ id true resurrection
+ args true Attribute Call
+ body true Expr Assign Assign Assign Expr Expr Expr
+ attr true active
+ attr true exhausted
+ id true Stolen
+ arg true minimum
+ body true Expr ImportFrom If
+ module true hearthbreaker.cards.weapons.warrior
+ name true HeavyAxe
+ body true AugAssign AugAssign
+ attr true durability
+ orelse true Assign Expr
+ id true heavy_axe
+ id true HeavyAxe
+ id true SpellTargeted
+ id true n
+ body true Expr AugAssign Expr
+ body true Expr Expr Expr Assign
+ id true AttackMode
+ id true TankMode
+ id true EventValue
+ id true HasBattlecry
+ attr true Fireball
+ body true Expr Expr Assign If Expr If
+ body true If Expr
+ body true Expr For For Assign Expr
+ id true secret
+ attr true deactivate
+ id true TargetIsMinion
+ id true AfterAdded
+ body true Expr ClassDef ClassDef Assign Expr
+ name true Gain2
+ orelse true Assign AugAssign
+ name true Draw3
+ id true Gain2
+ id true Draw3
+ values true Compare Attribute
+ id true Devilsaur
+ id true Squirrel
+ values true Compare Call UnaryOp

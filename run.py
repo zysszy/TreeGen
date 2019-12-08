@@ -11,7 +11,7 @@ import math
 import queue as Q
 from copy import deepcopy
 
-os.environ["CUDA_VISIBLE_DEVICES"]="0"
+os.environ["CUDA_VISIBLE_DEVICES"]="5"
 
 vocabu = {}
 tree_vocabu = {}
@@ -20,11 +20,13 @@ tree_vocabu_func = {}
 vocabu_var = {}
 tree_vocabu_var = {}
 
-embedding_size = 128
-conv_layernum = 128
+embedding_size = 256
+if "HS" not in project:
+    embedding_size = 128
+conv_layernum = 256
 conv_layersize = 3
 rnn_layernum = 50
-batch_size = 80
+batch_size = 30
 NL_vocabu_size = len(vocabulary)
 Tree_vocabu_size = len(tree_vocabulary)
 NL_len = nl_len
@@ -37,7 +39,7 @@ train_times = 1000
 parent_len = 20
 rule_num_len = 1350
 
-rules_len = rulelist_len = 150
+rules_len = rulelist_len = 200
 
 numberstack = []
 list2wordlist = []
@@ -82,7 +84,12 @@ def get_card(lst):
               copydic[cardnum[i]] = 1
           if cardnum[i] not in dic:
             dic[cardnum[i]] = 1
-    return 491-len(dic), wrongnum/copynum, wrongcnum
+    devs_num = 0
+    if "ATIS" in project:
+        devs_num = 491
+    elif "HS" in project:
+        devs_num = 66
+    return devs_num-len(dic), wrongnum/copynum, wrongcnum
 
 def create_model(session, g, placeholder=""):
     if(os.path.exists(project + "save1")):
@@ -213,7 +220,7 @@ def g_eval(sess, model, batch_data):
 
 def run():
     Code_gen_model = code_gen_model(classnum, embedding_size, conv_layernum, conv_layersize, rnn_layernum,
-                                    batch_size, NL_vocabu_size, Tree_vocabu_size, NL_len, Tree_len, parent_len, learning_rate, keep_prob, len(char_vocabulary))
+                                    batch_size, NL_vocabu_size, Tree_vocabu_size, NL_len, Tree_len, parent_len, learning_rate, keep_prob, len(char_vocabulary), rules_len)
     valid_batch, _ = batch_data(batch_size, "dev") # read data 
     best_accuracy = 0
     best_card = 0

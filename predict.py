@@ -12,7 +12,7 @@ from copy import deepcopy
 from tqdm import tqdm
 project = str(sys.argv[1]) + "/"
 
-#os.environ["CUDA_VISIBLE_DEVICES"]="0"
+os.environ["CUDA_VISIBLE_DEVICES"]="5"
 
 vocabu = {}
 tree_vocabu = {}
@@ -29,7 +29,7 @@ J_NlList = []
 
 
 global_step = 0
-embedding_size = 128
+embedding_size = 256
 conv_layernum = 128
 conv_layersize = 3
 rnn_layernum = 50
@@ -45,7 +45,7 @@ pretrain_dis_times = 2
 train_times = 1000
 parent_len = 20
 
-rulelist_len = 150
+rulelist_len = 200
 
 step_list_p = []
 numberstack = []
@@ -567,7 +567,7 @@ def predict():
     Tree_vocabu_size = len(tree_vocabulary)
 
     Code_gen_model = code_gen_model(classnum, embedding_size, conv_layernum, conv_layersize, rnn_layernum,
-                                    batch_size, NL_vocabu_size, Tree_vocabu_size, NL_len, Tree_len, parent_len, learning_rate, keep_prob, len(char_vocabulary))
+                                    batch_size, NL_vocabu_size, Tree_vocabu_size, NL_len, Tree_len, parent_len, learning_rate, keep_prob, len(char_vocabulary), rules_len)
     config = tf.ConfigProto(device_count={"GPU": 0})
     #config = tf.ConfigProto(allow_soft_placement=True)
     #config.gpu_options.allow_growth = True

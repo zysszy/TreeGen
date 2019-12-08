@@ -1,25 +1,32 @@
 # TreeGen
-Our paper is available at https://arxiv.org/abs/1911.09983.
+A Tree-Based Transformer Architecture for Code Generation.
+
+Our paper is available at https://arxiv.org/abs/1911.09983. (Accepted by AAAI'20)
 
 This repository is not a complete one, and we will complete it soon. 
 ## Usage
-### To train new model
+### To train a new model
 ```
-python3 run.py ATIS
+python3 run.py ATIS|HS-B
 ```
-### To predict the code
+### To predict the code (ATIS)
 ```
-python3 predict.py ATIS 1
+python3 predict.py ATIS 5
 ```
-### To scan the result
+where ```5``` is the beam size.
+### To predict the code (HS)
 ```
-python3 eval.py ATIS
+python3 predict_HS-B.py HS 5
+```
+### To check the results 
+```
+python3 eval.py ATIS|HS-B
 ```
 
-## Dependence
+## Dependenices
 * NLTK 3.2.1
-* Tensorflow 1.3.1
-* Python 3.5
+* Tensorflow 1.12.1
+* Python 3.7
 * Ubuntu 16.04
 
 ## Attention Visualization

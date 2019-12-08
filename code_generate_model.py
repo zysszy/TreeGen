@@ -610,7 +610,7 @@ class code_gen_model:
         return same_f
 
     def __init__(self, classnum, embedding_size, conv_layernum, conv_layersize, rnn_layernum,
-                 batch_size, NL_vocabu_size, Tree_vocabu_size, NL_len, Tree_len, parent_len, learning_rate, keep_prob, Char_vocabu_size):
+                 batch_size, NL_vocabu_size, Tree_vocabu_size, NL_len, Tree_len, parent_len, learning_rate, keep_prob, Char_vocabu_size, rules_len):
         self.embedding_size = embedding_size
         self.batch_size = batch_size
         self.vocabu_size = NL_vocabu_size
@@ -636,27 +636,26 @@ class code_gen_model:
         self.input_NL = tf.placeholder(tf.int32, shape=[None, NL_len])
         self.mask_nl = self.weights_nonzero(self.input_NL)
         self.input_NLChar = tf.placeholder(tf.int32, shape=[None, NL_len, 10])
-        self.inputY_Num = tf.placeholder(tf.int32, shape=[None, 150])
-        self.loss_mask = tf.placeholder(tf.float32, shape=[None, 150])
+        self.inputY_Num = tf.placeholder(tf.int32, shape=[None, rules_len])
+        self.loss_mask = tf.placeholder(tf.float32, shape=[None, rules_len])
         loss_mask = self.loss_mask#self.weights_nonzero(self.inputY_Num)
     
         self.inputY = tf.one_hot(self.inputY_Num, self.class_num)
         self.inputparentlist = tf.placeholder(tf.int32, shape = [None, parent_len])
-        self.inputrulelist = tf.placeholder(tf.int32, shape = [None, 150])
+        self.inputrulelist = tf.placeholder(tf.int32, shape = [None, rules_len])
         self.state = tf.placeholder(tf.int32, shape = [None])
-        self.tree_path_vec = tf.placeholder(tf.int32, shape=[None, 150, 10])
-        self.now_rule = tf.one_hot(self.state, 300)
+        self.tree_path_vec = tf.placeholder(tf.int32, shape=[None, rules_len, 10])
         self.mask_rule = self.weights_nonzero(self.inputrulelist)
         self.mask_rule_de = self.weights_zero(self.inputrulelist)
         self.inputunderfunclist = tf.placeholder(tf.int32, shape=[None,1])
         self.rewards = tf.placeholder(tf.float32, shape=[None])
-        self.inputrulelistnode = tf.placeholder(tf.int32, shape = [None, 150])
-        self.inputrulelistson = tf.placeholder(tf.int32, shape = [None, 150, 10])
-        self.antimask = tf.placeholder(tf.float32, shape = [150, 150])
-        self.sitemask = tf.placeholder(tf.float32, shape = [150, 150])
-        self.treemask = tf.placeholder(tf.float32, shape = [None, 150, 150])
-        self.father_mat = tf.placeholder(tf.float32, shape=[None, 150, 150])
-        self.labels = tf.placeholder(tf.int32, shape=[None, 150])
+        self.inputrulelistnode = tf.placeholder(tf.int32, shape = [None, rules_len])
+        self.inputrulelistson = tf.placeholder(tf.int32, shape = [None, rules_len, 10])
+        self.antimask = tf.placeholder(tf.float32, shape = [rules_len, rules_len])
+        self.sitemask = tf.placeholder(tf.float32, shape = [rules_len, rules_len])
+        self.treemask = tf.placeholder(tf.float32, shape = [None, rules_len, rules_len])
+        self.father_mat = tf.placeholder(tf.float32, shape=[None, rules_len, rules_len])
+        self.labels = tf.placeholder(tf.int32, shape=[None, rules_len])
         self.depth = self.labels
         label_smoothing = 0
         smooth_positives = 1.0 - label_smoothing
@@ -733,7 +732,7 @@ class code_gen_model:
             
             Decoder = f_state
 
-        All_q_a = tf.layers.dense(Decoder, 184)
+        All_q_a = tf.layers.dense(Decoder, classnum - NL_len)
         self.y_result = tf.nn.softmax(All_q_a)
         copy = self.multiheadattention_QKV_Copy(All_q_a, Decoder, nl_conv, nl_conv, self.mask_nl)
 
@@ -753,7 +752,7 @@ class code_gen_model:
         self.y_result = tf.concat([self.y_result, copy_output], 2)
         self.max_res = tf.argmax(self.y_result, 2)
         self.correct_prediction = tf.cast(tf.equal(tf.argmax(self.y_result, 2), tf.argmax(self.inputY, 2)), tf.float32) * loss_mask
-        self.accuracy = tf.reduce_mean(self.correct_prediction * tf.expand_dims( 150 / tf.reduce_sum(loss_mask, reduction_indices=[1]), -1))
+        self.accuracy = tf.reduce_mean(self.correct_prediction * tf.expand_dims( rules_len / tf.reduce_sum(loss_mask, reduction_indices=[1]), -1))
         self.cross_entropy = tf.reduce_sum(tf.reduce_sum(loss_mask *
             -tf.reduce_sum(self.inputY * tf.log(tf.clip_by_value(self.y_result, 1e-10, 1.0)), reduction_indices=[2]), reduction_indices=[1])) / tf.reduce_sum(loss_mask, reduction_indices=[0, 1])
         tf.add_to_collection("losses", self.cross_entropy)

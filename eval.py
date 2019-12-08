@@ -44,6 +44,12 @@ def parse_tree(line):
             stack.append(new_node)
     return str(ans)
 
+if "HS" in project:
+    import os 
+    os.system("cd HS-B/eval && python3 gener.py")
+    os.system("cd HS-B/eval && python3 ast2code.py")
+    exit()
+
 f = open(project + "test_output_ast.txt", "r")
 lines = f.readlines()
 f.close()

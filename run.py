@@ -27,6 +27,8 @@ conv_layernum = 256
 conv_layersize = 3
 rnn_layernum = 50
 batch_size = 30
+if "HS" not in project:
+    batch_size = 64
 NL_vocabu_size = len(vocabulary)
 Tree_vocabu_size = len(tree_vocabulary)
 NL_len = nl_len

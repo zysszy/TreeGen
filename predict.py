@@ -29,7 +29,7 @@ J_NlList = []
 
 
 global_step = 0
-embedding_size = 256
+embedding_size = 128
 conv_layernum = 128
 conv_layersize = 3
 rnn_layernum = 50

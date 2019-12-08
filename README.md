@@ -16,7 +16,7 @@ python3 predict.py ATIS 5
 where ```5``` is the beam size.
 ### To predict the code (HS)
 ```
-python3 predict_HS-B.py HS 5
+python3 predict_HS-B.py HS-B 5
 ```
 ### To check the results 
 ```

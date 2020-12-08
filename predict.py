@@ -483,9 +483,15 @@ def BeamSearch(sess, Code_gen_model, Nl, N, NL_number):
                 Set_.put(JavaOut)
                 continue
             print ("-----------")
-            res = getAction(sess, Code_gen_model, JavaOut)
-            list_res = [[res[i], i] for i in range(len(res))]
-            list_res = sorted(list_res, reverse=True)
+            try:
+                res = getAction(sess, Code_gen_model, JavaOut)
+                list_res = [[res[i], i] for i in range(len(res))]
+#               list_res = sorted(list_res, reverse=True)
+                list_res = sorted(list_res, reverse=True)
+            except:
+                JavaOut.is_end = True
+                Set_.put(JavaOut)
+                continue
             count_n = N
             for t in range(len(list_res)):
                 if t >= count_n:

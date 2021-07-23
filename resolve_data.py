@@ -84,7 +84,8 @@ def readvoc ():
         if int(words[1]) >= 10:
             tree_vocabulary[words[0]] = len(tree_vocabulary)'''
     tree_vocabulary = eval(f.readline())
-    tree_vocabulary["End"] = len(tree_vocabulary)
+    if "HS" not in project:
+        tree_vocabulary["End"] = len(tree_vocabulary)
     f.close()
 
     f = open(project + "char_voc.txt", "r")

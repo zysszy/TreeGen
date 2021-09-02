@@ -3,7 +3,16 @@ A Tree-Based Transformer Architecture for Code Generation.
 
 Our paper is available at https://arxiv.org/abs/1911.09983. (Accepted by AAAI'20)
 
-This repository is not a complete one, and we will complete it soon. 
+## News:
+
+TreeGen has been successfully applied to 
+
+Code Search (OCoR: An Overlapping-Aware Code Retriever, ASE'20): pdf (https://arxiv.org/pdf/2008.05201.pdf), code (https://github.com/pkuzqh/OCoR) 
+
+and 
+
+Program Repair (A Syntax-Guided Edit Decoder for Neural Program Repair, ESEC/FSE'21): pdf (https://arxiv.org/pdf/2106.08253v1.pdf), code (https://github.com/pkuzqh/Recoder).
+
 ## Usage
 ### To train a new model
 ```

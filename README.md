@@ -3,6 +3,8 @@ A Tree-Based Transformer Architecture for Code Generation.
 
 Our paper is available at https://arxiv.org/abs/1911.09983. (Accepted by AAAI'20)
 
+The Pytorch version is available at https://github.com/zysszy/TreeGen-Pytorch/tree/main.
+
 ## News:
 
 TreeGen has been successfully applied to 
